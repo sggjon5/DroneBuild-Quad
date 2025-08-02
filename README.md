@@ -1,5 +1,5 @@
 # 🛠️ DroneBuild-Quad
-Documenting a custom quadcopter build completed towards the end of my PhD.
+Documenting a custom quadcopter build completed summer 2025.
 
 Intended to be comprehensive (but not too boring). Any questions, omissions or mistakes please let me know.
 
