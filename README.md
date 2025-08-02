@@ -12,9 +12,10 @@ Intended to be comprehensive (but not too boring). Any questions, omissions or m
 - [Tools List](docs/02b-tools-list.md)
 - [Frame Assembly](docs/03-frame-assembly.md)
 - [ESC Firmware & Install](docs/04-esc.md)
-- [Telemetry Setup & Install](docs/05-telemetry.md)
-- [Transmitter & Receiver](docs/06-transmitter-receiver.md)
-- [Software Configuration](docs/07-software-config.md)
+- [Motors](docs/05-motors.md)
+- [Telemetry Setup & Install](docs/06-telemetry.md)
+- [Transmitter & Receiver](docs/07-transmitter-receiver.md)
+- [Software Configuration](docs/08-software-config.md)
 
 ---
 
