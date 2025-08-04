@@ -4,7 +4,7 @@ The frame selected was the Tarot 650 sport. The primary reasons were the size an
 
 The frame comes neatly packaged in a Tarot box and is quite easy to put together. The screws are pretty small so my advice (as with pretty much all of this process) would be to set up the area you are working in so that it is difficult to drop and lose them. With that said, there were spares in the box should you lose any.
 
-<img src="https://github.com/user-attachments/assets/b6f35656-e8de-40e5-a918-06dcd72c66b1" alt="Tarot Box Unopened" style="width:300px; height:auto; transform: rotate(90deg);">
+<img src="https://github.com/user-attachments/assets/b6f35656-e8de-40e5-a918-06dcd72c66b1" alt="Tarot Box Unopened" style="width:300px; height:auto;">
 
 
 
