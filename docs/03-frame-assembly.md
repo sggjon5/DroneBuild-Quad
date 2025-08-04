@@ -4,10 +4,12 @@ The frame selected was the Tarot 650 sport. The primary reasons were the size an
 
 The frame comes neatly packaged in a Tarot box and is quite easy to put together. The screws are pretty small so my advice (as with pretty much all of this process) would be to set up the area you are working in so that it is difficult to drop and lose them. With that said, there were spares in the box should you lose any.
 
-<img src="https://github.com/user-attachments/assets/b6f35656-e8de-40e5-a918-06dcd72c66b1" alt="Tarot Box Unopened" style="width:300px; height:auto; transform: rotate(90deg); transition: transform 0.5s ease;">
+ ![Tarot Box Unopened](https://github.com/user-attachments/assets/b6f35656-e8de-40e5-a918-06dcd72c66b1)
 
 
-I found this helpful video online, which I used in conjunction with the instructions that came in the box. Flicking back and forth between the two seemed to serve me well and it did not take too long to assemble the core components.
+I found this helpful video online (see below), which I used in conjunction with the instructions that came in the box. Flicking back and forth between the two seemed to serve me well and it did not take too long to assemble the core components.
+
+[![Watch the video](https://img.youtube.com/vi/4H4Mjw7wpys/0.jpg)](https://www.youtube.com/watch?v=4H4Mjw7wpys)
 
 I think given the veracity of the instructions I have pointed you to (and my lack of taking photos throughout) there is not much need in me writing a comprehensive instruction set for this part of the process.
 
