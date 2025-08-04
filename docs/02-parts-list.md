@@ -24,15 +24,19 @@ Below is a complete list of the components used to build the quadcopter, includi
 | **Bullet Connectors**       | Amass SH3.5mm Bullet Connectors (10 pairs)     | [3DXR](https://www.3dxr.co.uk/electronics-c78/connectors-c107/amass-sh3-5-3-5mm-bullet-connectors-10-pairs-p4190)      | 2 x £4.75 = £9.50 | -  | Wanted to use them to connect motors to ESCs rather than direct soldering. |
 | **Servo Extension Cables**       | Male to Female Futaba Connector Servo Cables (10cm)            | [eBay](https://www.ebay.co.uk/itm/193481616595?var=493692361048)  | £5.75 | -| Sold in packs of 5. Used to extend ESC signal cables to reach flight controller, and also reciever. |
 |        |  |  | | | |
-| **Totals**       |            |   | £ | -g |  |
+| **Totals**       |            |   | **£2409.95** | **2,839.3g** |  |
 
-I have bundled all of the 'cabling and connectors' into a conservative 50g estimate when doing the mass calcualtions. Meaning that I am currently working to a total mass of 
+I have bundled all of the 'cabling and connectors' into a conservative 50g estimate when doing the mass calcualtions. Meaning that I am currently working to a total mass of **~2.85kg** and a total cost (without tooling and mistakes) of **~£2400.00**.
  
 
 Then the things I 'had' to order after the fact because of some sort of mistake on my end...
 
 | Category        | Component                       | Supplier / Link                                                                 | Price (£) | Mass (g) | Notes |
 |-----------------|----------------------------------|----------------------------------------------------------------------------------|-----------|-------|-------|
-| **For ESCs**       | T-Motor DataLink V2            | [3DXR](https://www.3dxr.co.uk/multirotor-c3/multirotor-escs-c48/t-motor-alpha-data-link-v2-p2899)                           | £154.99  | NOT ON DRONE  | Probably (and hopefully!) the most expensive mistake I made. I did not read the literal red text at the bottom of the ESC's description (or I did but then completleey forgot when ordering), so had to buy this bit of hardware such that I could program the ESCs to match the motors. More about this later...  |
+| **For ESCs**       | T-Motor DataLink V2            | [3DXR](https://www.3dxr.co.uk/multirotor-c3/multirotor-escs-c48/t-motor-alpha-data-link-v2-p2899)                           | £154.99  | NOT ON DRONE  | Probably (and hopefully!) the most expensive mistake I made. I did not read the literal red text at the bottom of the ESC's description (or I did but then completley forgot when ordering), so had to buy this bit of hardware such that I could program the ESCs to match the motors. More about this later...  |
 | **Battery Connection Converter (wrong one)**       | XT60 to XT90 Plug adapter            | [FlyingTech](https://www.flyingtech.co.uk/product/xt60-to-xt90-plug-adapter/)                           | £3.90  | - | I initially ordered a XT60 Male to XT90 Female which was the wrong way round for my setup... |
 | **Battery Connection Converter (due to bad planning)**       | XT60 Male to XT60 Male adapter            | [eBay](https://www.ebay.co.uk/itm/256806148373?_skw=xt60+to+xt60+male&itmmeta=01K1V0VPN5JNV7MGNVFVRVN86S&hash=item3bcad6d915:g:tHQAAOSwkeBno5TD&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1f8RswwPG%2Bp4dUs3tfdNTHv5TCnhoiIjJoJsykYPAzzIZl3cGETnnkZQ2vRtByFgbY9mHn06FPqsdrHa%2F8cx0bWFw5xzzHmnyAxpgu0sOXXk%2Fwajzcuk7ZaJpAUE7ODxqa4GnCzoBD%2BdELVG%2BpsGsdkQQqWvpk5JcTXGCIji0RKcjHf0fJi%2F5u2bRujM%2BmxkERxIxVaSlw0AuXTE43ElvRurXY0CRkQkHvZ%2Fvrhm63Bt3I3O1wqRY5%2F9Zrqsj25sItxTP6GSQUlv3Aqxl3X52js0IY6OH81JKnYxIuXxwzsZQ%3D%3D%7Ctkp%3ABk9SR-jq7uCOZg)    | £3.95  | -  | Due to my evident poor planning of connector availability and the fact that I jumped the gun and already soldered the pigtail to the PDB, I decided it would be easier to just get a converter to make it work rather than changing the pigtail for a male ended XT60. |
+|        |  |  | | | |
+| **Totals (incl. mistakes)**       |            |   | **£2572.79** | **2,839.3g** |  |
+
+So now, including the fact that I did not request the ESC's to be programmed to my motors, the running total is **~£2600.00**.

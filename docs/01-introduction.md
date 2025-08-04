@@ -1,12 +1,14 @@
 # 🛠️ Introduction
 
-For a bit of context, I completed an MEng in Aerospace Engineering in 2021 and have since pursued a PhD with a more computer science–oriented focus, primarily exploring decision-making under uncertainty for applications in multi-target tracking. As PhDs often are, it has been heavily software-based, and I’ve found myself missing the hands-on challenges that come with developing physical systems, the kind that operate in the real world, not just the virtual one.
+For a bit of context, I completed an MEng in Aerospace Engineering in 2021 and have since pursued a PhD with a more computer science–oriented focus, primarily exploring decision-making under uncertainty for applications in multi-target tracking. As PhDs often are, it has been heavily simulation-based, and I’ve found myself missing the hands-on challenges that come with developing physical systems, the kind that operate in the real world, not just the virtual one.
 
-To address the above, I decided to build a quadcopter drone capable of carrying a companion computer and onboard sensors, with the aim of testing some of the algorithms I’ve developed during my PhD in real-world conditions. This repository is intended to document the full lifecycle of building the quadcopter, culminating in a functional testbed for the aforementioned sensor management algorithms.
+To address the above, I decided to build a quadcopter drone capable of carrying a companion computer and some onboard sensing capability (tbd), with the aim of testing some of the algorithms I’ve developed during my PhD in real-world conditions. This repository is intended to document the full lifecycle of building the quadcopter, culminating in a functional testbed for the aforementioned sensor management algorithms.
 
-The drone itself has been designed to be general purpose, with enough payload capacity to support a variety of small, but meaningful, components — making it a flexible platform for future development projects as well.
+The drone itself has been designed to be general purpose, with enough payload capacity to support a variety of small, but meaningful, components - making it a flexible platform for future development projects as well.
 
 To put some numbers to it, I was aiming for a takeoff weight (without any payload) of about 2.5-3kg, with some payload capacity left over so that I could build things into/onto it in the future.
+
+I was starting from basically no tools (other than general household things like pliers, screwdrivers, allan keys etc) and have therefore included the cost of obtainign all 'new' tools in total running cost of this project to keep it transparent.
 
 ---
 
