@@ -11,6 +11,10 @@ I did however reach out to t-motor and they have promised to write some custom f
 The recommended pairings for the motors and ESCs can be found [here](https://store.tmotor.com/article.php?id=249&srsltid=AfmBOopyixdGDCuPRMzZdIhsSHbEJ-VuuUXD7wQcLlyIUUaO3qEwRVjc).
 
 ## Using T-Motor software and DATALINK V2 to flash firmware of motor
+As mentioned above, you need to flash the firmware for your motor with the Alpha series of ESCs, using a DATALINK V2 and their software suite. A good video on how to compelte this process is here:
+
+[![Watch the video](https://img.youtube.com/vi/-yPCoabfOz0/0.jpg)](https://www.youtube.com/watch?v=-yPCoabfOz0)
+
 
 Things to watch out for:
 
