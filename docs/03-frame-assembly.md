@@ -18,4 +18,6 @@ My only notes would be:
 
 - Be extra careful of overtightening the motor mounts and stripping the holes
 - Do not tighten any screws that you will be loosening very shortly to install other components
--m 
+- The grub screws in the landing gear are particularly fiddly
+
+Some pictures I did take through the process...
