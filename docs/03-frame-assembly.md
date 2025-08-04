@@ -6,7 +6,7 @@ The frame comes neatly packaged in a Tarot box and is quite easy to put together
 
 <img src="https://github.com/user-attachments/assets/b6f35656-e8de-40e5-a918-06dcd72c66b1" alt="Tarot Box Unopened" style="width:300px; height:auto;">
 
-
+I will scan and upload the instructions that come in the box as after a quick Google, I cannot immediatley find them online.
 
 I found this helpful video online (see below), which I used in conjunction with the instructions that came in the box. Flicking back and forth between the two seemed to serve me well and it did not take too long to assemble the core components.
 
@@ -21,3 +21,8 @@ My only notes would be:
 - The grub screws in the landing gear are particularly fiddly
 
 Some pictures I did take through the process...
+
+![frame_box_open](https://github.com/user-attachments/assets/aaea52ca-9ea6-4756-aa1a-20cb19952379)
+![frame_box_component_bags2](https://github.com/user-attachments/assets/dfc48b6f-cdf1-47e6-9604-6baf3b66b07b)
+![frame_top_plate_and_arms](https://github.com/user-attachments/assets/ca92e61b-9c3b-4ca9-9459-849dc361290d)
+![drone_on_desk_no_electronics](https://github.com/user-attachments/assets/04a7b535-5709-4a31-9b83-2252f4f487fb)
