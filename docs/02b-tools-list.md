@@ -12,6 +12,8 @@
 | **Soldering Station**       | YIHUA 938BD+ Soldering Iron Station & Hot air rework station   | [Amazon](https://www.amazon.co.uk/dp/B08YD8JQHX?ref=cm_sw_r_cso_wa_apin_dp_24J10906KR0PERVB04V0&ref_=cm_sw_r_cso_wa_apin_dp_24J10906KR0PERVB04V0&social_share=cm_sw_r_cso_wa_apin_dp_24J10906KR0PERVB04V0)   | £89.99   | Recommended by [Tom's Hadware 2025](https://www.tomshardware.com/best-picks/best-soldering-irons), so far it has been great, heats up quickly, lots of different end effectors (or whatever they are actually called) has a sleep mode and the hot air functionality is also super handy.  |
 | **Soldering Mat**       | yowtiny Soldering Mat Large - Silicon   | [Amazon](https://www.amazon.co.uk/dp/B09QGV8XP9?ref=cm_sw_r_cso_wa_apin_dp_CB30MFJB8ZQ0DSQ5YXZN&ref_=cm_sw_r_cso_wa_apin_dp_CB30MFJB8ZQ0DSQ5YXZN&social_share=cm_sw_r_cso_wa_apin_dp_CB30MFJB8ZQ0DSQ5YXZN&th=1)   | £11.99   | Great, saves me burning holes in things and ruining surfaces as I am doing all of this in a domestic setting, as opposed to a workshop. |
 | **Heat Shrink Tubing**       | ASHINER Heat Shrink Tubing (580 pcs)   | [Amazon](https://www.amazon.co.uk/dp/B08XXGNJHG?ref=cm_sw_r_cso_wa_apin_dp_WCAW4BM14BTR3HMSM498&ref_=cm_sw_r_cso_wa_apin_dp_WCAW4BM14BTR3HMSM498&social_share=cm_sw_r_cso_wa_apin_dp_WCAW4BM14BTR3HMSM498&th=1)   | £8.99   | Required for protecting soldered joints of cable-cable and also cable-connector. |
-|        |  |  | | | |
-| **Tools Totals**       |            |   | **£2409.95** | **2,839.3g** |  |
+|        |  |  | | | 
+| **Tools Totals**       |            |   | **£221.69** |  |
+
+Resulting in the total running cost of the project to be **£2631.64** (+ £162.84 mistakes).
 
