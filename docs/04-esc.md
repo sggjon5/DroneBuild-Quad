@@ -2,7 +2,7 @@
 
 The ESCs that I selected were the T-Motor Alpha 60A ESC as they were the most appropriate available from where I was ordering the bulk of the components from.
 
-** I should note that if you are going to use the t-motor alpha series, you need to put the corresponding firmware onto them, using a DATALINK V2 (~£150)**.
+**I should note that if you are going to use the t-motor alpha series, you need to put the corresponding firmware onto them, using a DATALINK V2 (~£150)**.
 
 3DXR offer to do this for you if you leave them a note of which motor you are planning on using. You also need to check the t-motor website for which ESC is compatable with which motor. The motor I have (MN4014) is not paired with this ESC. In the interim I have flashed the firmware of the motor that _is_ available that is closest in size and KV rating. 
 
