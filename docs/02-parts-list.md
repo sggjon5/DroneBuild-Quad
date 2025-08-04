@@ -26,7 +26,7 @@ Below is a complete list of the components used to build the quadcopter, includi
 |        |  |  | | | |
 | **Totals**       |            |   | **£2409.95** | **2,839.3g** |  |
 
-I have bundled all of the 'cabling and connectors' into a conservative 50g estimate when doing the mass calcualtions. Meaning that I am currently working to a total mass of **~2.85kg** and a total cost (without tooling and mistakes) of **~£2400.00**.
+I have bundled all of the 'cabling and connectors' into a conservative 50g estimate when doing the mass calcualtions. Meaning that I am currently working to a total mass of **~2.839kg** and a total cost (without tooling and mistakes) of **£2409.95**.
  
 
 Then the things I 'had' to order after the fact because of some sort of mistake on my end...
@@ -39,4 +39,4 @@ Then the things I 'had' to order after the fact because of some sort of mistake 
 |        |  |  | | | |
 | **Totals (incl. mistakes)**       |            |   | **£2572.79** | **2,839.3g** |  |
 
-So now, including the fact that I did not request the ESC's to be programmed to my motors, the running total is **~£2600.00**.
+So now, including the fact that I did not request the ESC's to be programmed to my motors, the running total is **£2572.79**. Herein, I will delcare the running total as a price + mistakes. 
