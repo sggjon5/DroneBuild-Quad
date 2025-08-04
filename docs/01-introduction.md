@@ -6,6 +6,8 @@ To address the above, I decided to build a quadcopter drone capable of carrying 
 
 The drone itself has been designed to be general purpose, with enough payload capacity to support a variety of small, but meaningful, components — making it a flexible platform for future development projects as well.
 
+To put some numbers to it, I was aiming for a takeoff weight (without any payload) of about 2.5-3kg, with some payload capacity left over so that I could build things into/onto it in the future.
+
 ---
 
 ## 🎯 Project Goals

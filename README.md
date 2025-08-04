@@ -7,7 +7,7 @@ Intended to be comprehensive (but not too boring). Any questions, omissions or m
 
 ## 📑 Contents 
 
-- [Introduction & Iterative Design](docs/01-introduction.md)
+- [Introduction](docs/01-introduction.md)
 - [Parts List](docs/02-parts-list.md)
 - [Tools List](docs/02b-tools-list.md)
 - [Frame Assembly](docs/03-frame-assembly.md)
