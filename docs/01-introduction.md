@@ -10,6 +10,8 @@ To put some numbers to it, I was aiming for a takeoff weight (without any payloa
 
 I was starting from basically no tools (other than general household things like pliers, screwdrivers, allan keys, zip-ties, etc) and have therefore included the cost of obtainign all 'new' tools in total running cost of this project to keep it transparent. As I have written this, I realised I also have a 3D printer that I used to print a GPS stand that would have likely cost ~£10 if I had not have designed and printed one.
 
+None of this work has been sponsored by any of the vendors that I have used and therefore I am happy to provide an impartial review that they have all been excellent w.r.t. their correspondence and delivery times.
+
 ---
 
 ## 🎯 Project Goals
