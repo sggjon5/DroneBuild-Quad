@@ -60,6 +60,8 @@ As the connectors on the motor are male, we needed to install female connectors 
 > [!TIP]
 > Put the heat shrink onto the cable before you solder the connector on.
 
+![ESC_next_to_installed_motor](https://github.com/user-attachments/assets/0ddc36d5-4c51-492a-a399-2a6728c67612)
+
 ### Installing the ESC's onto the frame and cabling
 
 Due to their larger size, there was an issue with running the ESC cables through the arms of the drone as shown in the assembly video, meaning I had to route them down the arms, along the underside, using zipties to keep them in place. 
