@@ -18,21 +18,20 @@ As mentioned above, you need to flash the firmware for your motor with the Alpha
 
 [![Watch the video](https://img.youtube.com/vi/-yPCoabfOz0/0.jpg)](https://www.youtube.com/watch?v=-yPCoabfOz0)
 
-
 Things to watch out for:
 
 - You need to be able to power the ESC to do this
-- The ordering of when you plug things in/power things on/click buttons in their software is very important, follow the video carefully.
+- The sequence of when you plug things in/power things on/click buttons in their software is important, follow the video carefully.
 - The software for the DATA LINK V2 can be downloaded from [here](https://uav-en.tmotor.com/2018/alpha_0502/158.html)
 
 ## Installing the ESCs
 
-This process is covered in relative detail in the video on the frame build page but realistically you have two main options:
+This process is covered in sufficient detail in the video linked on the frame assembly page, but (typically) you have two options:
 
 - Install under the motor mounts
 - Install within the main body of the drone
 
-Within my setup, despite their larger size I chose to install them them under the motor mounts. Because of this, the power cables on each ESC required extending. 
+Within this setup, despite their larger size, I chose to install them them under the motor mounts. Because of this, the power cables on each ESC required extending. 
 
 ### Extending ESC power cables
 As described above, the length of the preinstalled wires on the ESC were not long enugh to reach from where they were to be installed to the centre of the frame where the soldering points are on the PDB. They therefore were extended by a short length (shown in the photos) using the 14AWG silicon wire.
@@ -46,7 +45,20 @@ As described above, the length of the preinstalled wires on the ESC were not lon
 ![ESC_extension_soldered](https://github.com/user-attachments/assets/bf59221d-d9b7-4eea-bfca-26c9e82ee05e)
 
 ### Soldering Bullet Connectors onto the ESC
+At this point it is worth considering how you wish your ESC and motors to be connected. Many motors come with connectors already installed on the end of their cables - it is worth finding out what connectors are on the end of the motors you have selected. In this case, the MN4014 came with 3.5mm bullet connectors on the end of them. This is not to say that it cannot be changed, or that you could not just remove them and solder the cables directly, but bullet connectors are a common choice for connecting your ESC to your motor.
 
+![motor_male_bullet_connectors](https://github.com/user-attachments/assets/d49b60ed-bab3-4af7-bd1c-27c1ed7fe350)
+
+As the connectors on the motor are male, we needed to install female connectors of the same size onto the ESC cables.
+
+> [!TIP]
+> Use a set of helping hands for this, the connector conducts heat very well as it is lilely fully metal, and it can therefore get very hot...
+
+![helping hand_holding_bullet_connector2](https://github.com/user-attachments/assets/8fbbe950-4b44-4cf7-8c25-89d5ba442758)
+![helping_hand_holding_bullet_connector](https://github.com/user-attachments/assets/657b7d67-78ef-42cc-bebd-eb12d7d8ac27)
+
+> [!TIP]
+> Put the heat shrink onto the cable before you solder the connector on.
 
 ### Installing the ESC's onto the frame and cabling
 
