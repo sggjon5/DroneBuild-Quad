@@ -24,14 +24,17 @@ Things to watch out for:
 - The ordering of when you plug things in/power things on/click buttons in their software is very important, follow the video carefully.
 - The software for the DATA LINK V2 can be downloaded from [here](https://uav-en.tmotor.com/2018/alpha_0502/158.html)
 
-## Installing the ESCs onto the frame
+## Installing the ESCs
 
 This process is covered in relative detail in the video on the frame build page but realistically you have two main options:
 
 - Install under the motor mounts
 - Install within the main body of the drone
 
-Within my setup, despite their larger size I chose to install them them under the motor mounts. Because of this, the power cables on each ESC required extending. I have attached some photos of the process below.
+Within my setup, despite their larger size I chose to install them them under the motor mounts. Because of this, the power cables on each ESC required extending. 
+
+### Extending ESC power cables
+As described above, the length of the preinstalled wires on the ESC were not long enugh to reach from where they were to be installed to the centre of the frame where the soldering points are on the PDB. They therefore were extended by a short length (shown in the photos) using the 14AWG silicon wire.
 
 ![Alpha 60A 6S ESC](https://github.com/user-attachments/assets/c321ce5a-fd99-48ae-b6d9-d642c0dee31f)
 
@@ -41,9 +44,27 @@ Within my setup, despite their larger size I chose to install them them under th
 
 ![ESC_extension_soldered](https://github.com/user-attachments/assets/bf59221d-d9b7-4eea-bfca-26c9e82ee05e)
 
+### Soldering Bullet Connectors onto the ESC
+
+
+### Installing the ESC's onto the frame and cabling
+
 Due to their larger size, there was an issue with running the ESC cables through the arms of the drone as shown in the assembly video, meaning I had to route them down the arms, along the underside, using zipties to keep them in place. 
 
-**These photos were taken after the final assembly had been complete so please do not feel as through you have missed steps**
+A single thicker ziptie was also used to hold the ESC in place, threading through the motor mount and *not* threading through the carbon plate on which the motor will be fixed to. This means you need to remove the screws and carbon plate on the topside of each motor mount to thread the ziptie.
+
+One thing to note is that whilst ziptieing the cables down onto the arms, I made sure there was still enough freedom in the ends of the cables so that I could manouvre them easily enough as the next step would be to solder the ends down.
+
+**These photos were taken after the final assembly had been complete so please do not feel as through you have missed steps w.r.t. other cabling and components you may see.**
 
 ![under_arm_cables](https://github.com/user-attachments/assets/b6c8673b-259b-4394-a5cc-2a4874d9b965)
 ![drone_underside_showing_cable_management](https://github.com/user-attachments/assets/9c80bc99-9041-4913-a90d-41b3664a08eb)
+
+Once you have installed the ESC and are happy with its cabling, you can then solder the power cables to the PDB contact points. Make sure the polarity is correct (Red +, Black -). If you are not familiar with soldering, it is worthwhile watching a few youtube videos on how to do it neatly and effectvley. I would also reccomend having a go at doing it on non-critical/spare components first (i.e. two cables together, cable to connector etc). You can buy practice boards but my advice here would be to make sure you buy one that is appropriate for what you are doing - there is little point in buying a super tiny one if you need practice at soldering thick large cables. 
+
+[!TIP] Solder flows to the hot area, the idea is to heat up what you are adding solder to and then melting the solder so it flows to it. Thinking of it this way will likely negate many of the early frustrations of things not sticking.
+Another one would be
+
+[!TIP] If you are new to it, do not be lazy, change the solder tip to an appropriate one. If it is a big joint, then use a big soldering iron tip.
+
+As I am writing this I think it may be worth putting into a different standalone section but I will leave it here for the time being.
