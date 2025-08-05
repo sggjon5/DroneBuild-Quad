@@ -76,7 +76,12 @@ A single thicker ziptie was also used to hold the ESC in place, threading throug
 
 One thing to note is that whilst ziptieing the cables down onto the arms, I made sure there was still enough freedom in the ends of the cables so that I could manouvre them easily enough as the next step would be to solder the ends down.
 
-**These photos were taken after the final assembly had been complete so please do not feel as through you have missed steps w.r.t. other cabling and components you may see.**
+> [!NOTE]
+> These photos were taken after the final assembly had been complete so please do not feel as through you have missed steps w.r.t. other cabling and components you may see.
+>
+> Most notably, the ESC to motor connection cables were not ziptied underneath at this point as the motor cables had not yet been shortened.
+
+
 
 ![under_arm_cables](https://github.com/user-attachments/assets/b6c8673b-259b-4394-a5cc-2a4874d9b965)
 ![drone_underside_showing_cable_management](https://github.com/user-attachments/assets/9c80bc99-9041-4913-a90d-41b3664a08eb)
