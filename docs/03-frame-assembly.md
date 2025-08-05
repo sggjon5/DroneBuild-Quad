@@ -26,7 +26,7 @@ One thing that I do not recall the video showing is the connection of the power 
 
 As you can see, red goes to the positive (+) and black goes to the negative (-).
 
-> [! TIP]
+> [!TIP]
 > You can use the multimeter to check for continutity through your soldered joints. Make contact with one probe to the end of the XT60 connector and the other to the corresponding points on the PDB.
 
 Some pictures I did take through the process...
