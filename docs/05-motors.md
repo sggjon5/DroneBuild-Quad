@@ -40,13 +40,28 @@ I decided to shorten them enough so that there was not a lot of excess cable the
 
 
 ## Installing the motors onto the motor mounts
+The motor mounts have a carbon plate on their top side which fixes to the motors via a selection of holes within it.
 
+![carbon_motor_mount_plate](https://github.com/user-attachments/assets/838ec77d-c3a9-4d0d-b910-f7c11848fada)
 
+An important observation that was made during this build was that the mounting screws included with the motor were (just!) too long and impeded the movement of the motor by making contact with the coils. This was due to the fact that the mounting plate is a thin carbon fibre element, if it were bulkier then this would not be an issue. To me, there were two options:
 
+- Replace the M3 bolts with shorter versions
+- Use washers on the outside of the mount
 
+As I had some shorter bolts (8mm?), I used these.
 
+The screws that came with the motor (I think 10mm)
+![old_motor_screws](https://github.com/user-attachments/assets/be5df695-0ecb-411d-a56a-bd04fe998fae)
 
+The photo I took when changing the screws.
+![changing_motor_screws](https://github.com/user-attachments/assets/edb32b63-3b1b-4d13-b711-b110bc8841c7)
 
+Once I had changed all of the screws over I then re-mounted all of the motors to the frame. The ordering of the cables from the ESC to the motor was not important at this point as I would determine their spin direction later on when configuring the software. In the interim, I just connected all four motors the same with the cables going to their nearest connector as shown below.
+
+![ESC_connected_to_motor_closeup](https://github.com/user-attachments/assets/c7395ab8-23a3-4e9c-a00c-939e51819535)
+
+(ultimatley you will end up swapping over the 2 of the 3 cables on two of the motors to get them to spion in the correct direction, but as they are now attached via bullet connectors, this is an easy and fast process.)
 
 
 
