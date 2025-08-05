@@ -6,7 +6,7 @@ The motors selected for this project were the T-motor MN4014 330KV motors - a me
 
 According to the manufacturers datasheet, these motors (when paired with the selected propellors) will provide 830g of thrust at 50% throttle, meaning a total thrust of 3320g. 
 
-By making some assumptions* we can ascertain the relationship between % throttle and thrust to be y = 22.517x - 284.79. Which then provides:
+By making some assumptions[^1] we can ascertain the relationship between % throttle and thrust to be y = 22.517x - 284.79. Which then provides:
 
 - at 40% throttle, 4 x 615g = 2460g
 - at 45% throttle, 4 x 728g = 2912g
@@ -17,7 +17,7 @@ The numbers within a motors name typically conform to the convention of stator d
 
 The KV rating is an indicator of speed potential. It describes the revolutions per minute (RPM) a motor will achieve per Volt that is put into it. Typically, higher Kv motors spin faster and have lower torque and the opposite is true of lower Kv rated motors. There is plenty of literature online about this sort of thing and it is not my area of expertise so I shall defer you to other, readily available resources online if you want to do any further reading around this.
 
- * the assumptions are that the relationship is _almost_ linear between % throttle and thrust provided by the motor, verified by plotting some of their similar motor data that includes a lower range of throttle percentage data points. Using this info, a simple linear regression can be applied to the motor data on this motors datasheet.
+[^1] the assumptions are that the relationship is _almost_ linear between % throttle and thrust provided by the motor, verified by plotting some of their similar motor data that includes a lower range of throttle percentage data points. Using this info, a simple linear regression can be applied to the motor data on this motors datasheet.
 
 ## Shortening the cable length 
 
@@ -40,6 +40,7 @@ I decided to shorten them enough so that there was not a lot of excess cable the
 
 
 ## Installing the motors onto the motor mounts
+
 
 
 
