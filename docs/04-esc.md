@@ -86,3 +86,6 @@ Another one would be
 If you are new to it, do not be lazy, change the solder tip to an appropriate one. If it is a big joint, then use a big soldering iron tip.
 
 As I am writing this I think it may be worth putting into a different standalone section but I will leave it here for the time being.
+
+
+So to summarise, at this point the frame is assembled into its primary sections, the ESCs have been mounted under the motor mounts, cables have been extended and relevant connectors attached and the ESC power cables have been soldered onto the PDB.
