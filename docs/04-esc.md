@@ -62,12 +62,12 @@ One thing to note is that whilst ziptieing the cables down onto the arms, I made
 
 Once you have installed the ESC and are happy with its cabling, you can then solder the power cables to the PDB contact points. Make sure the polarity is correct (Red +, Black -). If you are not familiar with soldering, it is worthwhile watching a few youtube videos on how to do it neatly and effectvley. I would also reccomend having a go at doing it on non-critical/spare components first (i.e. two cables together, cable to connector etc). You can buy practice boards but my advice here would be to make sure you buy one that is appropriate for what you are doing - there is little point in buying a super tiny one if you need practice at soldering thick large cables. 
 
-> [! TIP]
+> [!TIP]
 Solder flows to the hot area, the idea is to heat up what you are adding solder to and then melting the solder so it flows to it. Thinking of it this way will likely negate many of the early frustrations of things not sticking.
 
 Another one would be
 
-> [! TIP]
+> [!TIP]
 If you are new to it, do not be lazy, change the solder tip to an appropriate one. If it is a big joint, then use a big soldering iron tip.
 
 As I am writing this I think it may be worth putting into a different standalone section but I will leave it here for the time being.
