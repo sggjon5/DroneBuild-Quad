@@ -44,6 +44,11 @@ As described above, the length of the preinstalled wires on the ESC were not lon
 
 ![ESC_extension_soldered](https://github.com/user-attachments/assets/bf59221d-d9b7-4eea-bfca-26c9e82ee05e)
 
+This was everything laid out on the storage table before I started attaching connectors
+
+![motor_top_plate_electronics_laid_out_ESC_cables_motors_on2](https://github.com/user-attachments/assets/83fe86c6-a47a-4331-b0e4-63fd315d5867)
+
+
 ### Soldering Bullet Connectors onto the ESC
 At this point it is worth considering how you wish your ESC and motors to be connected. Many motors come with connectors already installed on the end of their cables - it is worth finding out what connectors are on the end of the motors you have selected. In this case, the MN4014 came with 3.5mm bullet connectors on the end of them. This is not to say that it cannot be changed, or that you could not just remove them and solder the cables directly, but bullet connectors are a common choice for connecting your ESC to your motor.
 
@@ -61,6 +66,7 @@ As the connectors on the motor are male, we needed to install female connectors 
 > Put the heat shrink onto the cable before you solder the connector on.
 
 ![ESC_next_to_installed_motor](https://github.com/user-attachments/assets/0ddc36d5-4c51-492a-a399-2a6728c67612)
+
 
 ### Installing the ESC's onto the frame and cabling
 
