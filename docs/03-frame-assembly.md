@@ -4,7 +4,7 @@ The frame selected was the Tarot 650 sport. The primary reasons were the size an
 
 The frame comes neatly packaged in a Tarot box and is quite easy to put together. The screws are pretty small so my advice (as with pretty much all of this process) would be to set up the area you are working in so that it is difficult to drop and lose them. With that said, there were spares in the box should you lose any.
 
-<img src="https://github.com/user-attachments/assets/b6f35656-e8de-40e5-a918-06dcd72c66b1" alt="Tarot Box Unopened" style="width:300px; height:auto;">
+![frame_box_closed](https://github.com/user-attachments/assets/cd70d033-0c08-4bcf-9be2-d52523bc90a6)
 
 I will scan and upload the instructions that come in the box as after a quick Google, I cannot immediatley find them online.
 
@@ -20,9 +20,18 @@ My only notes would be:
 - Do not tighten any screws that you will be loosening very shortly to install other components
 - The grub screws in the landing gear are particularly fiddly
 
+One thing that I do not recall the video showing is the connection of the power connector to the PDB. This requires you to solder two relativley big solder joints.
+
+![XT60_pigtail_soldered](https://github.com/user-attachments/assets/a47fdcf4-d29d-49ea-ba40-f7f03b8cce74)
+
+As you can see, red goes to the positive (+) and black goes to the negative (-).
+
+> [! TIP]
+> You can use the multimeter to check for continutity through your soldered joints. Make contact with one probe to the end of the XT60 connector and the other to the corresponding points on the PDB.
+
 Some pictures I did take through the process...
 
-![frame_box_open](https://github.com/user-attachments/assets/aaea52ca-9ea6-4756-aa1a-20cb19952379)
-![frame_box_component_bags2](https://github.com/user-attachments/assets/dfc48b6f-cdf1-47e6-9604-6baf3b66b07b)
-![frame_top_plate_and_arms](https://github.com/user-attachments/assets/ca92e61b-9c3b-4ca9-9459-849dc361290d)
-![drone_on_desk_no_electronics](https://github.com/user-attachments/assets/04a7b535-5709-4a31-9b83-2252f4f487fb)
+![frame_box_open](https://github.com/user-attachments/assets/3889645b-6901-43d9-97db-806f2b0a3d38)
+![frame_box_component_bags2](https://github.com/user-attachments/assets/1ccdccf4-58ba-4fec-a7a4-ef21a4009383)
+![frame_top_plate_and_arms](https://github.com/user-attachments/assets/d8479b57-179b-46dc-82ab-5b9a9d62f733)
+![drone_on_desk_no_electronics](https://github.com/user-attachments/assets/258a9c49-ec6e-48dc-98de-d168879d30ec)
