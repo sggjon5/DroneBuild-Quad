@@ -1,6 +1,6 @@
 # 🪫ESC (no ESC emoji)
 
-The ESCs that I selected were the T-Motor Alpha 60A ESC as they were the most appropriate available from where I was ordering the bulk of the components from.
+The ESCs that I selected were the T-Motor Alpha 60A, as they were the most appropriate that were available from where I was ordering the bulk of the components from.
 
 ![ESC_in_box](https://github.com/user-attachments/assets/95373e6f-3b3b-4dc8-b526-4c903a2c0348)
 
