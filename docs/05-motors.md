@@ -11,7 +11,7 @@ By making some assumptions[^1] we can ascertain the relationship between % throt
 - at 40% throttle, 4 x 615g = 2460g
 - at 45% throttle, 4 x 728g = 2912g
 
-This provides the confidence that we will be able to hover (where weight=lift) at an appropriate throttle setting (aiming for between 40-50 to give good control authority.
+This provides the confidence that we will be able to hover (where weight=lift) at an appropriate throttle setting (aiming for between 40-50% to give good control authority.
 
 The numbers within a motors name typically conform to the convention of stator diameter by stator height - so in this case, these motors are 40mm in diameter and 14mm in height, forming the 4014.
 
@@ -40,6 +40,7 @@ I decided to shorten them enough so that there was not a lot of excess cable the
 
 
 ## Installing the motors onto the motor mounts
+
 
 
 
