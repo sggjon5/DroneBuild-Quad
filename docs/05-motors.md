@@ -2,8 +2,6 @@
 
 The motors selected for this project were the T-motor MN4014 330KV motors - a member of the navigator series.
 
-![motor_box_sticker](https://github.com/user-attachments/assets/0ebc4254-967c-476f-a14b-65085be55090)
-
 ![MN414_motor_up_close](https://github.com/user-attachments/assets/82659fea-2a19-43e4-bd82-3c97fe69583a)
 
 According to the manufacturers datasheet, these motors (when paired with the selected propellors) will provide 830g of thrust at 50% throttle, meaning a total thrust of 3320g. 
@@ -42,6 +40,7 @@ I decided to shorten them enough so that there was not a lot of excess cable the
 
 
 ## Installing the motors onto the motor mounts
+
 
 
 
