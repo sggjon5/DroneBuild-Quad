@@ -111,6 +111,6 @@ To change the setup of a particular switch (i.e. name, whether it is 2pos, 3pos 
 
 There are some things to be configured within the software setup to make some of this work but we will go through that in the next section.
 
-
+➡️ [Continue to: GPS >>](04-GPS.md)
 
 
