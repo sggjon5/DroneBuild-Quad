@@ -48,7 +48,7 @@ The transmitter used for this project was the FrSky Tandem X18 Dual Band transmi
 ![x18_transmitter_case](https://github.com/user-attachments/assets/f2b5dc64-3e4e-4742-a701-c562b071ca1f)
 
 
-There is again, a great comprehensive video about this series of transmitters that I found useful to watch most of. I can corroborate what is said there that it does have a real quality feling to it, even if mine is the cheapest version available.
+There is again, a great comprehensive video about this series of transmitters that I found useful to watch most of. I can corroborate what is said there that it does have a real quality feeling to it, even if mine is the cheapest version available.
 
 [![Watch the video](https://img.youtube.com/vi/sJ-LwGSo7k8/0.jpg)](https://www.youtube.com/watch?v=sJ-LwGSo7k8)
 
