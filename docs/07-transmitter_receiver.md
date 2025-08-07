@@ -48,7 +48,7 @@ There is again, a great comprehensive video about this series of transmitters th
 
 [![Watch the video](https://img.youtube.com/vi/sJ-LwGSo7k8/0.jpg)](https://www.youtube.com/watch?v=sJ-LwGSo7k8)
 
-
+### Registration and binding process
 I felt a little overwhelmed with setting this up at first but after watching the above, the menus of the ETHOS system are intuitive and pretty easy to navigate. I will add my personal selection of buttons etc below but first I will go through the binding process with the receiver.
 
 With the reciever powered off, turn on the transmitter and follow the instructions to set up a model - it should match the configuration that you are building, in this case, a quadcopter (I think it says "multi" on the ETHOS system).
@@ -59,5 +59,36 @@ It will then suggest some channels, typically a set-up would have
 - **CH2** - Pitch
 - **CH3** - Throttle
 - **CH4** - Yaw
+
+Once you have made this model, it should become the active model. Using the nav bar at the bottom of the screen, click on the second from the left (the plane icon) and navigate to RF system.
+
+You then want to expand the internal module drop down and turn it on.
+
+You should then select the protocol to be the one that matches with your receiver, in this case ACCESS.
+
+You then need to turn on either 2.4GHz or 900M depending on what frequency your receiever operates on. As spoken through in the video, this transmitter can do both. In this case, I have turned on the 2.4GHz and left 900M turned off.
+
+Select the Register button on the transmitter and head back over to your drone/receiver.
+
+> [!NOTE]
+> You should check your electronics for shorts before going all out with the battery for the next step. In this case, I actually used the bench power supply with 22.2V and a lower ampage (3.0A?) to safeguard against frying anything done incorrectly. I would advise to do this before plugging in a battery straight away. Check for shorts using the multi-meter etc.
+
+Hold the button down on the reciever (you should feel it click when pressed) and plug the battery (or bench power advised) in to power on the system. The lights on the receiver should be green and red, indicating (as per the data sheet) that it is in "reg" mode.
+
+On the screen of your transmitter, you should then see it change and the register button at the bottom of the screen should be able to be selected - click it to register the device.
+
+After you have had a registration successful/ok message, power down the drone so the receiever is powered off.
+
+Then, on the transmitter, click one of the three options on the same line as the regiser button (mine was RX1, RX2 and RX3) but I have seen slighly different layouts of menu's on some youtube videos.
+
+Power the drone/receiever back on
+
+You may have to select it on the screen of the transmitter again, but it is intutive to do and you should then recieve a bind successful message. The light on the receiver should be green and you should see the name of it (or some truncated form) in the box on the menu of the transmitter.
+
+The above is basically a poorly worded version of the advice on the manual provided by FrSky (see the datasheet linked previously, or the image below).
+
+<img width="1171" height="501" alt="image" src="https://github.com/user-attachments/assets/edd27356-092a-4244-aea2-a7d27dd7c508" />
+
+### My Setup
 
 
