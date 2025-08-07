@@ -75,4 +75,12 @@ I know I have said it before, but I will say it again and again just in case.
 
 Now you have confirmed everything is working as anticipated, we can set the arm switch we assigned to channel 8 on our transmitter to actually mean something to the drone via changing some parameters in mission planner. The video linked below goes through the whole process but I will highlight the key details (I would still reccomend watching the video, it is very short and straight to the point).
 
-https://www.youtube.com/watch?v=wtwehddboB4&t=25s
+- Go to config > full parameter list
+- Search for rcX_option, where X is the number of the channel you have assigned to be your arming channel (in this case RC8_OPTION)
+- Change the value to 153
+- Write the parameter changes back to the flight controller (button on right hand menu)
+
+It is worth noting that you can also do this through the Extended tuning menu by setting the corresponding RC Opt to be ArmDisarm.
+
+[![Watch the video](https://img.youtube.com/vi/wtwehddboB4&t/0.jpg)](https://www.youtube.com/watch?v=wtwehddboB4&t=25s)
+
