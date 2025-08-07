@@ -32,7 +32,10 @@ Pending...
 --- 
 
 ## 🚠 Cable/Wiring Diagram
-Pending
+Below is a schematic of the wiring within the quad. I feel compelled to say (Not to scale).
+
+It is an .svg file and therefore you should be able to download & zoom to read the small text notes scattered around it. 
+
 ![Wiring Diagram](media/images/wiring_diagram.svg)
 
 ---
