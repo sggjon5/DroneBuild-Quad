@@ -33,7 +33,7 @@ Pending...
 
 ## 🚠 Cable/Wiring Diagram
 Pending
-![Wiring Diagram](media/images/wiring-diagram.pdf)
+![Wiring Diagram](media/images/wiring-diagram.svg)
 
 ---
 
