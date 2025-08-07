@@ -8,4 +8,6 @@ It is pretty easy to install and use and there is plenty of documentation online
 
 
 
+[![GPS Here4 Setup guide](media/images/final-finished.jpg)](https://www.youtube.com/watch?v=L6gyeE3Q22A)
+
 https://www.youtube.com/watch?v=L6gyeE3Q22A
