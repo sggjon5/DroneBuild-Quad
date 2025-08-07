@@ -7,15 +7,16 @@ Intended to be comprehensive (but not too boring). Any questions, omissions or m
 
 ## 📑 Contents 
 
-- [Introduction](docs/01-introduction.md)
-- [Parts List](docs/02-parts-list.md)
-- [Tools List](docs/02b-tools-list.md)
-- [Frame Assembly](docs/03-frame-assembly.md)
-- [ESC Firmware & Install](docs/04-esc.md)
-- [Motors](docs/05-motors.md)
-- [Telemetry Setup & Install](docs/06-telemetry.md)
-- [Transmitter & Receiver](docs/07-transmitter-receiver.md)
-- [Software Configuration](docs/08-software-config.md)
+- [👋 Introduction](docs/01-introduction.md)
+- [🧩Parts List](docs/02-parts-list.md)
+- [🔨 Tools List](docs/02b-tools-list.md)
+- [🏗️ Frame Assembly](docs/03-frame-assembly.md)
+- [🪫 ESC Firmware & Install](docs/04-esc.md)
+- [🧲 Motors](docs/05-motors.md)
+- [📡 Telemetry Setup & Install](docs/06-telemetry.md)
+- [🎮📻 Transmitter & Receiver](docs/07-transmitter-receiver.md)
+- [🛰️ GPS](docs/08-GPS.md)
+- [💻 Software Configuration](docs/08-software-config.md)
 
 ---
 
