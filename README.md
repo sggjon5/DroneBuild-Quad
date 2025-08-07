@@ -15,7 +15,7 @@ Intended to be comprehensive (but not too boring). Any questions, omissions or m
 - [🧲 Motors](docs/05-motors.md)
 - [📡 Telemetry Setup & Install](docs/06-telemetry.md)
 - [🎮📻 Transmitter & Receiver](docs/07-transmitter-receiver.md)
-- [🛰️ GPS](docs/08-GPS.md)
+- [🛰️ GPS](docs/08-gps.md)
 - [💻 Software Configuration](docs/08-software-config.md)
 
 ---
