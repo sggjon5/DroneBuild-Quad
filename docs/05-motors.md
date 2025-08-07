@@ -40,7 +40,7 @@ I decided to shorten them enough so that there was not a lot of excess cable the
 
 
 ## Installing the motors onto the motor mounts
-The motor mounts have a carbon plate on their top side which fixes to the motors via a selection of holes within it.
+The motor mounts have a carbon plate on their top side which fixes to the motors via a selection of holes within it. It is highly likely that some of these will align with the mounting holes on the bottom of your motor. I used four screws per motor to mount them to the carbon plate.
 
 ![carbon_motor_mount_plate](https://github.com/user-attachments/assets/838ec77d-c3a9-4d0d-b910-f7c11848fada)
 
@@ -62,6 +62,7 @@ Once I had changed all of the screws over I then re-mounted all of the motors to
 ![ESC_connected_to_motor_closeup](https://github.com/user-attachments/assets/c7395ab8-23a3-4e9c-a00c-939e51819535)
 
 (ultimatley you will end up swapping over the 2 of the 3 cables on two of the motors to get them to spion in the correct direction, but as they are now attached via bullet connectors, this is an easy and fast process.)
+
 
 
 
