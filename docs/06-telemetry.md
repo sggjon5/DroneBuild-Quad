@@ -11,11 +11,11 @@ The setting up of these components was actually very simple. As I had purchased 
 
 This video talks you through everything I would type here and is much easier to scrub through and find the parts you need/want. Most notably, the checking that all the parameters are aligned on both your radios and how to actually plug them in and check it is all working.
 
-I will however mention how you actually orientate the connector onto the pins (it is convered in the video too). Your connector cable will have a little arrow in the top corner above the (most likely) black cable.
+I will however mention how you actually orientate the connector onto the pins (it is also convered in the video). Your connector will have a little arrow in the top corner above the (most likely) black cable.
 
 ![telemetry_cable](https://github.com/user-attachments/assets/7c76d9c1-8b74-414f-a247-03822e803434)
 
-This arrow goes onto the far left, bottom rail of the RFD868x-EU pins (there is likely a plastic blocker stopping you from using the top rail.
+This arrow goes onto the far left, bottom rail of the RFD868x-EU pins (there is likely a plastic blocker stopping you from using the top rail).
 
 ![telemetry_nearly_plugged_in](https://github.com/user-attachments/assets/114ac63d-f156-4cf9-99d8-894b9290fd90)
 
