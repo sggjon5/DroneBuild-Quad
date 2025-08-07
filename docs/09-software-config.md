@@ -43,3 +43,36 @@ Under the flight modes tab you will see 6 flight modes available. The way to che
 <img width="611" height="267" alt="image" src="https://github.com/user-attachments/assets/15af1f9b-7a58-40e6-bf9b-cb963e529731" />
 <img width="618" height="261" alt="image" src="https://github.com/user-attachments/assets/d3bf0836-ca12-42c5-b76c-e1cf4f850799" />
 
+Once you have completed all of the orientations/calibrations etc you can then get something moving - the motor test!
+
+---
+
+## Motor Test
+
+I know I have said it before, but I will say it again just in case.
+
+> [!WARNING]
+> Remove all propellors before doing the motor test.
+
+Navigate to the optional hardware dropdown in the sidebar of the setup tab and select motor test. Here you can diligently check that the motors are spinning in the right direction. An easy way to test this is to rip a strip of paper and hold it against the motor as it spins for the 2 seconds at 5% throttle. This gives a clear indication of which way the motor is spinning and you can ensure that it matches the setup shown in the software that is required.
+
+> [!NOTE]
+> The stickers that come as a defualt on many frames do not necessarily match the numbering in the mission planner software. Check this carefully to ensure what is happening in the real world is what is expected to happen, governed by the labelling in the software.
+
+
+If the motors are not spinnning, it could be that the signal cables are not correctly assigned/oriented, it could also be that there is not enough power to spin the motors (if you are still attached to a low amp bench power supply, for example) or it could be that the connection between the ESC and the motor is faulty.
+
+One sign that the connections are correct is that when you power on the drone, you should hear a succession of around 5 beeps, proceeded by one longer beep. This is also dependent on turning off the safety parameter we mentioned in the GPS setup section. The noises made by the ESC can be decoded and often have some meaning. I have not had to go through this but a google of what the beeps mean for your specific ESCs should turn up some results and information to then act on.
+
+ ---
+ 
+## Setting a Remote Arm Switch
+
+I know I have said it before, but I will say it again and again just in case.
+
+> [!WARNING]
+> Remove all propellors.
+
+Now you have confirmed everything is working as anticipated, we can set the arm switch we assigned to channel 8 on our transmitter to actually mean something to the drone via changing some parameters in mission planner. The video linked below goes through the whole process but I will highlight the key details (I would still reccomend watching the video, it is very short and straight to the point).
+
+https://www.youtube.com/watch?v=wtwehddboB4&t=25s
