@@ -27,24 +27,26 @@ None of this work has been sponsored by any of the vendors that I have used and 
 This repo contains:
 
 - A full parts & tools list, with links and costs
-- A step-by-step recollection of the process, including mistakes and things added costs...
-- Wiring diagrams and (a very small selection of) 3D printable parts
-- Software setup (ArduCopter)
+- A step-by-step recollection of the process, including mistakes and things that added costs...
+- A wiring diagram
+- Software setup and parameters
 - Demo videos and photos (from when I remembered to take them...)
 
 Whether it is just curiosity, you are planning your own custom build, or stuck halfway through it, I hope this guide is helpful.
 
 ---
 
-## 🧠 Things I Have Learned (or at least had to refresh!)
+## 🧠 Skills Developed (or at least had to refresh!)
 
 - Basic electronics & soldering
+- Engineering design
 - CAD (Fusion360)
-- 3D printing (had to replace the hot end too)
+- 3D printing (also had to replace the hot end on the printer)
 - Firmware flashing and configuration
 - Mechanical assembly
 - ETHOS (transmitter OS)
-- Mission Planner (ArduPilot)
+- Ground control software (Mission Planner)
+- Autopilot software (ArduPilot)
 
 
 ➡️ [Continue to: Parts List >>](02-parts-list.md)
