@@ -100,16 +100,16 @@ As I am writing this I think it may be worth putting into a different standalone
 
 ### ESC Signal Cables
 
-The final connection that needs to be made is the ESC signal cables being plugged into the corresponding pins on the bottom rail of the cube orange+ flight controller. The airframe setup section of your selected software will provide you with the mapping of which motor goes to which pin. At this point, I put a loose ziptie around all of the cables and left them bunched in the central hole of the top plate. This allowed them to stay together and not get tangled until I was ready to figure out where they were going.
+The final connection that needs to be made is the ESC signal cables being plugged into the corresponding pins on the bottom rail of the cube orange+ flight controller. This does not need to be done immediatley but your cable management plan should include it. The airframe setup section of your selected software will provide you with the mapping of which motor goes to which pin. At this point, I put a loose ziptie around all of the cables and left them bunched in the central hole of the top plate. This allowed them to stay together and not get tangled until I was ready to figure out where they were going. You can just about see the bunch of connectors coming through the top central hole on the drone in the below image.
+
+![drone_assembled_propulsion_installed3](https://github.com/user-attachments/assets/8fe77843-4127-42ee-9bfe-73f8c098dc3f)
 
 One thing that is worth noting is that with these Alpha ESCs, there are two, three-pin connectors that come out from them (along with another single connector wire).
 
 - The three pin connector with all three cables attached are for flasing the correct firmware to the ESC
 - The three pin connector with **only two** cables attached are the ones we want to connect to the rail on the flight controller.
 
-  If you connect the three cabled version, when you come to test your motors, nothing will happen (I can speak to this from experience...)
-
-
+If you connect the three cabled version, when you come to test your motors, nothing will happen (I can speak to this from experience...)
 
 
 
