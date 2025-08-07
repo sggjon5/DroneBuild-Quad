@@ -118,3 +118,5 @@ If you connect the three cabled version, when you come to test your motors, noth
 
 
 So to summarise, at this point the frame is assembled into its primary sections, the ESCs have been mounted under the motor mounts, cables have been extended and relevant connectors attached and the ESC power cables have been soldered onto the PDB.
+
+➡️ [Continue to: Motors >>](05-motors.md)
