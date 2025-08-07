@@ -3,8 +3,8 @@ Documenting a custom quadcopter build completed summer 2025.
 
 Intended to be comprehensive (but not too boring). Any questions, omissions or mistakes please let me know.
 
+![hotshot](https://github.com/user-attachments/assets/22a5aed6-f0ae-478f-b37c-b70e5b997966)
 
-![hotshot2](https://github.com/user-attachments/assets/6d31ebfe-fc74-4a00-a9c0-1b687144b918)
 
 
 ---
@@ -25,7 +25,7 @@ Intended to be comprehensive (but not too boring). Any questions, omissions or m
 ---
 
 ## 🎥 Demo Video
-[![Maiden flight video](media/images/final-finished.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Maiden flight video](https://github.com/user-attachments/assets/6d31ebfe-fc74-4a00-a9c0-1b687144b918)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 --- 
 
@@ -34,4 +34,14 @@ Intended to be comprehensive (but not too boring). Any questions, omissions or m
 
 ---
 
-## Mistakes I Made
+## 🤕 Mistakes
+
+- Did not tell the vendor of the motors I was using when ordering the ESC, so had to buy a DATA LINK V2 to flash the firmware myself
+- ESCs are a bit big to run the cables through the motor arms so had to run them externally (still looks neat but less so than internal cabling)
+- Bought a wire stripper/cutter that is not very good at cutting...
+  
+  
+
+
+
+![hotshot2]()
