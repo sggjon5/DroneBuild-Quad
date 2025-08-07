@@ -37,6 +37,8 @@ This may or may not be the correct place for this information but as we currentl
 
 ![power_converters](https://github.com/user-attachments/assets/cc5a00aa-4aa1-41a2-bf6e-a1ccd9817071)
 
+➡️ [Continue to: ESCs >>](04-esc.md)
+
 
 Some pictures I did take through the process that I have not used in the above descriptions...
 
@@ -44,3 +46,6 @@ Some pictures I did take through the process that I have not used in the above d
 ![frame_box_component_bags2](https://github.com/user-attachments/assets/1ccdccf4-58ba-4fec-a7a4-ef21a4009383)
 ![frame_top_plate_and_arms](https://github.com/user-attachments/assets/d8479b57-179b-46dc-82ab-5b9a9d62f733)
 ![drone_on_desk_no_electronics](https://github.com/user-attachments/assets/258a9c49-ec6e-48dc-98de-d168879d30ec)
+
+
+➡️ [Continue to: ESCs >>](04-esc.md)
