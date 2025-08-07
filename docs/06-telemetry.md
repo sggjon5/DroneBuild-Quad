@@ -1,4 +1,4 @@
-# 📻 Telemetry
+# 📡 Telemetry
 The telemetry selected for this build was the RFDesigns 868x-EU radio bundle. 
 
 > [!NOTE]
