@@ -91,4 +91,18 @@ The above is basically a poorly worded version of the advice on the manual provi
 
 ### My Setup
 
+This is the part I feel the most uncertain about in the entire process to be honest. I could not really find a "this is how you configure your transmitter" advice easily online, so I am going off the assumption that there are some standards but it is otherwise personal preference what the different switches etc are assigned. In anycase, here is my current mixes configuration for this quad copter setup.
+
+| Name | Channels | Source | Notes |
+|------|----------|---------|-------|
+|  Roll | CH1 | Aileron  | Default setting, what is recognised by default in Ardupilot |
+| Pitch | CH2 | Elevator | " |
+| Yaw | CH4 | Rudder | " |
+| Throttle | CH3 | Throttle | ". Added throttle cut setting assgined to SG (3 position switch converted to a 2 position switch in hardware settings) |
+| Flight Modes | CH5 | SC | Free Mix - Kept as 3 position switch, will likely assign to stabilized, ATTI and RTH?. |
+| RTH | CH7 | SF | Free mix - 2 position switch |
+| Arm | CH8 | SD | Free mix - changed 3 pos switch to a 2 pos switch in hardware settings. Set so drone can be armed remotely |
+
+
+
 
