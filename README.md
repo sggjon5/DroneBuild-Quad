@@ -37,6 +37,8 @@ It is an .svg file and therefore you should be able to download & zoom to read t
 
 It does not yet include the companion computer, but I anticipate connecting this to the telem2 port of the flight controller. I have not yet decided how this will be powered.
 
+This was made on a Canva whiteboard, as those who know me will be aware, I am a big advocate for Canva for all things presentation and design.
+
 ---
 
 ## 🤕 Mistakes
@@ -45,6 +47,11 @@ It does not yet include the companion computer, but I anticipate connecting this
 - ESCs are a bit big to run the cables through the motor arms so had to run them externally (still looks neat but less so than internal cabling) (no cost)
 - Bought a wire stripper/cutter that is not very good at cutting and honestly surplus to requirements for a project of this scale... (~£25)
 - Ordered the wrong XT60 pigtail (female) and soldered it to the drone, warranting either a replacement or a male to male XT60 converter (~£5)
-  
-  
-## 🤕 Mistakes
+
+## 🎉 Positive & Good Things
+
+- The communication and fast delivery from all of the vendors (most notably 3DXR and FlyingTech) has been brilliant every time
+- The soldering station is solid, does everything I would want it to and probably made my life a lot easier
+- The top plate of the frame is a PDB, which I think is cool
+- The battery charger did not break the bank, and it can be used as a bench DC power supply
+- The build quality of the X18 transmitter feels very sturdy and good
