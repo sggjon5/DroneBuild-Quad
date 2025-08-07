@@ -47,6 +47,9 @@ Whether it is just curiosity, you are planning your own custom build, or stuck h
 - ETHOS (transmitter OS)
 - Ground control software (Mission Planner)
 - Autopilot software (ArduPilot)
+- Latte Art
+
+![latte art](https://github.com/user-attachments/assets/a7c2b577-58bf-41e5-9ea3-50af2a89e9c6)
 
 
 ➡️ [Continue to: Parts List >>](02-parts-list.md)
