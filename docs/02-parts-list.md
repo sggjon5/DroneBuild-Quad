@@ -44,4 +44,4 @@ Then the things I 'had' to order after the fact because of some sort of mistake 
 So now, including the fact that I did not request the ESC's to be programmed to my motors, the running total is **£2572.79**. Herein, I will delcare the running total as a price + mistakes. 
 
 
-➡️ [Continue to: Tools List >>](03-tools-list.md)
+➡️ [Continue to: Tools List >>](02b-tools-list.md)
