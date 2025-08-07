@@ -15,6 +15,8 @@ I did however reach out to t-motor and they have promised to write some custom f
 
 The recommended pairings for the motors and ESCs can be found [here](https://store.tmotor.com/article.php?id=249&srsltid=AfmBOopyixdGDCuPRMzZdIhsSHbEJ-VuuUXD7wQcLlyIUUaO3qEwRVjc).
 
+---
+
 ## Using T-Motor software and DATALINK V2 to flash firmware of motor
 As mentioned above, you need to flash the firmware for your motor with the Alpha series of ESCs, using a DATALINK V2 and their software suite. A good video on how to compelte this process is here:
 
@@ -25,6 +27,8 @@ Things to watch out for:
 - You need to be able to power the ESC to do this
 - The sequence of when you plug things in/power things on/click buttons in their software is important, follow the video carefully.
 - The software for the DATA LINK V2 can be downloaded from [here](https://uav-en.tmotor.com/2018/alpha_0502/158.html)
+
+---
 
 ## Installing the ESCs
 
