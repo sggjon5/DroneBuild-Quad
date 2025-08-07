@@ -3,7 +3,7 @@
 - **Receiver** - FrSky ARCHER PLUS RS
 - **Transmitter** - FrSky Tandem X18
 
-I will provide info about the receiver, then transmitter, and then the binding process.
+I will provide info about the receiver, then transmitter, then the binding process and finally my configuration of mixes.
 
 ## 📻 Receiver
 The receiver used for this build is the FrSky Archer Plus RS 2.4 GHz. This is an incredibly small and lightweight reciever weighing just over a gram. The datasheets spec it to be able to operate at >2km in good conditions and I found the whole registering and binding process very straight forward. [The datasheet](https://www.frsky-rc.com/wp-content/uploads/Downloads/Amanual/ARCHER%20PLUS%20RS%20RS%20Mini%20Manual.pdf) explains how to set up this receiever in a set of relativley short and easy steps.
@@ -106,6 +106,8 @@ This is the part I feel the most uncertain about in the entire process to be hon
 | Arm | CH8 | SD | Free mix - changed 3 pos switch to a 2 pos switch in hardware settings. Set so drone can be armed remotely |
 
 To change the setup of a particular switch (i.e. name, whether it is 2pos, 3pos etc), you can navigate to the settings cog along the bottom nav bar of ETHOS on the transmitter. Here you will find hardware settings > switches settings. Within this drop-down you can change the features of the switches and see what is available to you. If you are permanently renaming things, I would reccomend keeping the assigned letters in the name somwehere as it is then easy to rember which one you have assigned as arm, or kill_motors etc.
+
+There are some things to be configured within the software setup to make some of this work but we will go through that in the next section.
 
 
 
