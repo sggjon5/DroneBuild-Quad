@@ -40,7 +40,7 @@ This process is covered in sufficient detail in the video linked on the frame as
 Within this setup, despite their larger size, I chose to install them them under the motor mounts. Because of this, the power cables on each ESC required extending. 
 
 ### Extending ESC power cables
-As described above, the length of the preinstalled wires on the ESC were not long enugh to reach from where they were to be installed to the centre of the frame where the soldering points are on the PDB. They therefore were extended by a short length (shown in the photos) using the 14AWG silicon wire.
+As described above, the length of the preinstalled wires on the ESC were not long enough to reach from where they were to be installed to the centre of the frame where the soldering points are on the PDB. They therefore were extended by a short length (shown in the photos) using the 14AWG silicon wire.
 
 ![Alpha 60A 6S ESC](https://github.com/user-attachments/assets/c321ce5a-fd99-48ae-b6d9-d642c0dee31f)
 
