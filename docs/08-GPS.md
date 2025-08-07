@@ -15,7 +15,7 @@ It is customary (at least historically) to place the GPS on a stand above the re
 > [!NOTE]
 > You can buy pretty good looking, removable GPS stands from a variety of trusted vendors and they are inexpensive (~£10ish), this is not something you have to bodge yourself.
 
-I ended up loading up Fusion360 and designing a simple stand that (due to my infrequent and lacking CAD abilities) ended up being a single piece of print, rather than as I initially intended, a modular design which I could refine and print the different elements to make better. It did however more or less line up with the fixign holes available on the tarot 650 frame. 
+I ended up loading up Fusion360 and designing a simple stand that (due to my infrequent and lacking CAD abilities) ended up being a single piece of print, rather than as I initially intended, a modular design which I could refine and print the different elements to make better. It did however _more or less_ line up with the fixing holes available on the tarot 650 frame. 
 
 If you do want the .stl file for it, is is [here](files/GPS_stand_v1.stl). I will note that without reinforcing the central stick, it is quite springy, and could almost certaintly do with being thicker, or being replaced with a more appropriate material at a minimum (PLA+ be flexin). To remedy this, I quite lazily reinforced it with a wooden dowell, using two trusty zipties at the top and bottom to secure it.
 
