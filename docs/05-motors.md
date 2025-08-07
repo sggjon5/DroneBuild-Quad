@@ -19,6 +19,8 @@ The KV rating is an indicator of speed potential. It describes the revolutions p
 
 [^1]: the assumptions are that the relationship is _almost_ linear between % throttle and thrust provided by the motor, verified by plotting some of their similar motor data that includes a lower range of throttle percentage data points. Using this info, a simple linear regression can be applied to the motor data on this motors datasheet.
 
+---
+
 ## Shortening the cable length 
 
 The one thing that did surprise me is that the length of the cables that came as standard on the motors was 50cm - lending itself to placing the ESC in the main body of the frame; or have a large bundle of cables at the end of the arm. This led me to reconsider whether the setup I had already selected (ESCs under motors) was the optimal architecture. 
@@ -38,6 +40,7 @@ I decided to shorten them enough so that there was not a lot of excess cable the
 ![motor_cable_shotening_in_progress](https://github.com/user-attachments/assets/f30bedb2-d811-49d5-b0dd-7fe9c78d3b75)
 ![motor_shotened_cable3](https://github.com/user-attachments/assets/775f780c-e3e1-4e95-ac87-eef6fef4efcc)
 
+---
 
 ## Installing the motors onto the motor mounts
 The motor mounts have a carbon plate on their top side which fixes to the motors via a selection of holes within it. It is highly likely that some of these will align with the mounting holes on the bottom of your motor. I used four screws per motor to mount them to the carbon plate.
@@ -65,6 +68,8 @@ Once I had changed all of the screws over I then re-mounted all of the motors to
 
 ![drone_assembled_propulsion_installed3](https://github.com/user-attachments/assets/c451654b-8efc-4432-8e68-9fc5b1c1da1d)
 
+---
+
 ## Props
 
 The props being used in this build as the Carbon P15x5 props recommended by T-motor to pair with the MN4014 motor being used. It is important to check that the frame you are using/have designed has enough clearance for the size of the props you want to use. Ideally you would not have the props effectivley being tip to tip when they are spinning, there should be a safe amount of cleareance between them at all points of their rotation.
@@ -87,5 +92,6 @@ Both the motors and the props likely came with small discs which sit on top of t
 > [!NOTE]
 > There is also little coloured stickers with the props that can be used to pair a prop with a particular arm/motor. I would advise checking the rotations are correct multiple times before changing your reference point to the stickers!
 
+➡️ [Continue to: Telemetry >>](06-telemetry.md)
 
 
