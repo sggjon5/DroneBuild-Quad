@@ -45,6 +45,7 @@ It is an .svg file and therefore you should be able to download & zoom to read t
 - Did not tell the vendor of the motors I was using when ordering the ESC, so had to buy a DATA LINK V2 to flash the firmware myself
 - ESCs are a bit big to run the cables through the motor arms so had to run them externally (still looks neat but less so than internal cabling)
 - Bought a wire stripper/cutter that is not very good at cutting...
+- Got the wrong XT60 pigtail and soldered it to the drone, warranting either a replacement or a male to male XT60 converter
   
   
 
