@@ -29,5 +29,5 @@ I then applied some double sided sticky tape to the bottom of it and secured it 
 
 ![GPS_installed](https://github.com/user-attachments/assets/954ebaae-c75f-4410-b93e-c0ed501316bc)
 
-
+➡️ [Continue to: Software Setup >>](09-software-config.md)
 
