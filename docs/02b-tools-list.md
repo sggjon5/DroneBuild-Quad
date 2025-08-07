@@ -19,5 +19,5 @@ A table of everything I purchased for this build. You could get away with buying
 
 Resulting in the total running cost of the project to be **£2631.64** (+ £162.84 mistakes).
 
-➡️ [Continue to: Frame Assembly List >>](03-frame-assembly.md)
+➡️ [Continue to: Frame Assembly >>](03-frame-assembly.md)
 
