@@ -13,7 +13,7 @@ The things I would highlight though are:
 
 To connect mission planner to your drone, we will use the telemetry setup that we have established. Plug the second (i.e. the one not on the drone) telemetry module (with antenna screwed on) into your PC using the USB cable provided in the bundle. Then, power on your drone. Whilst doing this, you can also turn on your transmitter and allow it to automatically connect to the receiver on the drone (as we have set up the binding and registration earlier) using the model that was setup previously.
 
->  [! WARNING]
+>  [!WARNING]
 > Do not do this if you have props attached. Remove all props before any power is connected to your drone.
 
 On the successful connection of your telemetry modules (indicated by a solid green and flashing orange light), navigate to the top right corner of mission planner (can be downloaded [here](https://ardupilot.org/planner/docs/mission-planner-installation.html)) and select the first drop down box. There should be a COMX option available. For example, mine is COM6. The Baud rate for my setup is 57600 but it may differ for different arrangements. Click connect in the top right corner.
