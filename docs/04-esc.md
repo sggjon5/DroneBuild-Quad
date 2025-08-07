@@ -98,6 +98,8 @@ If you are new to it, do not be lazy, change the solder tip to an appropriate on
 
 As I am writing this I think it may be worth putting into a different standalone section but I will leave it here for the time being.
 
+### ESC Signal Cables
+
 The final connection that needs to be made is the ESC signal cables being plugged into the corresponding pins on the bottom rail of the cube orange+ flight controller. The airframe setup section of your selected software will provide you with the mapping of which motor goes to which pin. At this point, I put a loose ziptie around all of the cables and left them bunched in the central hole of the top plate. This allowed them to stay together and not get tangled until I was ready to figure out where they were going.
 
 One thing that is worth noting is that with these Alpha ESCs, there are two, three-pin connectors that come out from them (along with another single connector wire).
