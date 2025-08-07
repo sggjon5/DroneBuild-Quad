@@ -11,7 +11,7 @@ The ESCs that I selected were the T-Motor Alpha 60A, as they were the most appro
 
 <img width="221" height="247" alt="motors_available_on_ESC" src="https://github.com/user-attachments/assets/25eb682f-a7b3-479f-adf7-c7c9a1a2079e" />
 
-I did however reach out to t-motor and they have promised to write some custom firmware (within 3-4 weeks) to pair this ESC with this motor, which if it happens, is excellent customer service as the error is entirely my fault.
+I did however reach out to t-motor and they have promised to write some custom firmware (within 3-4 weeks) to pair this ESC with this motor, which if it happens, is excellent customer service as the error is entirely my fault. As far as I understand it, the incorrect firmware will not prevent the motor from working as any ESC _should_ be able to make any motor work (subject to current draw limitations). I believe it is a case of if the firmware is incorrect, the motor is not running at its optimal efficiency - but again, this is not my area of expertise and is what I have concluded from my fragmented scouring of the limited information I could find online.
 
 The recommended pairings for the motors and ESCs can be found [here](https://store.tmotor.com/article.php?id=249&srsltid=AfmBOopyixdGDCuPRMzZdIhsSHbEJ-VuuUXD7wQcLlyIUUaO3qEwRVjc).
 
