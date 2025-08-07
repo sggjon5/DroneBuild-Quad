@@ -54,7 +54,7 @@ An important observation that was made during this build was that the mounting s
 
 As I had some shorter bolts (8mm?), I used these.
 
-The screws that came with the motor (I think 10mm)
+The screws that came with the motor (I think 12mm)
 ![old_motor_screws](https://github.com/user-attachments/assets/be5df695-0ecb-411d-a56a-bd04fe998fae)
 
 The photo I took when changing the screws.
@@ -93,5 +93,6 @@ Both the motors and the props likely came with small discs which sit on top of t
 > There is also little coloured stickers with the props that can be used to pair a prop with a particular arm/motor. I would advise checking the rotations are correct multiple times before changing your reference point to the stickers!
 
 ➡️ [Continue to: Telemetry >>](06-telemetry.md)
+
 
 
