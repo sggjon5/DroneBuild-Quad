@@ -39,14 +39,25 @@ As can be seen in the above photo, the button is not actually attached anymore, 
 
 The transmitter used for this project was the FrSky Tandem X18 Dual Band transmitter. 
 
-![x18_transmitter](https://github.com/user-attachments/assets/04077540-5ebc-422b-8f45-79d357f510f8)![x18_transmitter_case](https://github.com/user-attachments/assets/f2b5dc64-3e4e-4742-a701-c562b071ca1f)
+![x18_transmitter](https://github.com/user-attachments/assets/04077540-5ebc-422b-8f45-79d357f510f8)
+
+![x18_transmitter_case](https://github.com/user-attachments/assets/f2b5dc64-3e4e-4742-a701-c562b071ca1f)
 
 
-
-
-
-There is again, a great comprehensive video about this series of transmitters that I found useful to watch most of. I can corroborate what is said here that it does have a real quality feling to it, even if mine is the cheapest version available.
+There is again, a great comprehensive video about this series of transmitters that I found useful to watch most of. I can corroborate what is said there that it does have a real quality feling to it, even if mine is the cheapest version available.
 
 [![Watch the video](https://img.youtube.com/vi/sJ-LwGSo7k8/0.jpg)](https://www.youtube.com/watch?v=sJ-LwGSo7k8)
+
+
+I felt a little overwhelmed with setting this up at first but after watching the above, the menus of the ETHOS system are intuitive and pretty easy to navigate. I will add my personal selection of buttons etc below but first I will go through the binding process with the receiver.
+
+With the reciever powered off, turn on the transmitter and follow the instructions to set up a model - it should match the configuration that you are building, in this case, a quadcopter (I think it says "multi" on the ETHOS system).
+
+It will then suggest some channels, typically a set-up would have
+
+- **CH1** - Roll
+- **CH2** - Pitch
+- **CH3** - Throttle
+- **CH4** - Yaw
 
 
