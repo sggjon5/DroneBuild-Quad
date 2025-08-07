@@ -13,8 +13,10 @@ By making some assumptions[^1] we can ascertain the relationship between % throt
 
 This provides the confidence that we will be able to hover (where weight=lift) at an appropriate throttle setting (aiming for between 40-50%) to give good control authority (mass of the drone is currently predicted to be 2,839.3g).
 
-The numbers within a motors name typically conform to the convention of stator diameter by stator height - so in this case, these motors are 40mm in diameter and 14mm in height, forming the 4014.
+The other consideration with motors (beyond their physical size and if they will fit) is the voltage that they operate at. This information can be obtained from their data sheet and can be deciphered with the knowledge that there is nominally 3.7V per cell. So if the motor claims an operating voltage of 22.2V, this means it is suited to a 6S battery (as 6 * 3.7V = 22.2V). As a realted note, LiPo batteries are considered to be fully charged at 4.2V and fully discharged at 3.0V. It is common practive to stop flying between 3.4-3.5V to preserve the battery and store the batteries at a balanced 3.8V per cell.
 
+The numbers within a motors name typically conform to the convention of stator diameter by stator height - so in this case, these motors are 40mm i diameter and 14mm in height, forming the 4014.
+)
 The KV rating is an indicator of speed potential. It describes the revolutions per minute (RPM) a motor will achieve per Volt that is put into it. Typically, higher Kv motors spin faster and have lower torque and the opposite is true of lower Kv rated motors. There is plenty of literature online about this sort of thing and it is not my area of expertise so I shall defer you to other, readily available resources online if you want to do any further reading around this.
 
 [^1]: the assumptions are that the relationship is _almost_ linear between % throttle and thrust provided by the motor, verified by plotting some of their similar motor data that includes a lower range of throttle percentage data points. Using this info, a simple linear regression can be applied to the motor data on this motors datasheet.
@@ -93,6 +95,7 @@ Both the motors and the props likely came with small discs which sit on top of t
 > There is also little coloured stickers with the props that can be used to pair a prop with a particular arm/motor. I would advise checking the rotations are correct multiple times before changing your reference point to the stickers!
 
 ➡️ [Continue to: Telemetry >>](06-telemetry.md)
+
 
 
 
