@@ -7,7 +7,9 @@ The ESCs that I selected were the T-Motor Alpha 60A, as they were the most appro
 > [!IMPORTANT]
 > I should note that if you are going to use the t-motor alpha series, you need to put the corresponding firmware onto them, using a DATALINK V2 (~£150).
 
-3DXR offer to do this for you if you leave them a note of which motor you are planning on using. You also need to check the t-motor website for which ESC is compatable with which motor. The motor I have (MN4014) is not paired with this ESC. In the interim I have flashed the firmware of the motor that _is_ available that is closest in size and KV rating. 
+3DXR offer to do this for you if you leave them a note of which motor you are planning on using. You also need to check the t-motor website for which ESC is compatable with which motor. The motor I have (MN4014) is not paired with this ESC. In the interim I have flashed the firmware of the motor that _is_ available that is closest in size and KV rating. The listed motors available on the ESCs I have are
+
+<img width="221" height="247" alt="motors_available_on_ESC" src="https://github.com/user-attachments/assets/25eb682f-a7b3-479f-adf7-c7c9a1a2079e" />
 
 I did however reach out to t-motor and they have promised to write some custom firmware (within 3-4 weeks) to pair this ESC with this motor, which if it happens, is excellent customer service as the error is entirely my fault.
 
@@ -81,8 +83,6 @@ One thing to note is that whilst ziptieing the cables down onto the arms, I made
 >
 > Most notably, the ESC to motor connection cables were not ziptied underneath at this point as the motor cables had not yet been shortened.
 
-
-
 ![under_arm_cables](https://github.com/user-attachments/assets/b6c8673b-259b-4394-a5cc-2a4874d9b965)
 ![drone_underside_showing_cable_management](https://github.com/user-attachments/assets/9c80bc99-9041-4913-a90d-41b3664a08eb)
 
@@ -97,6 +97,18 @@ Another one would be
 If you are new to it, do not be lazy, change the solder tip to an appropriate one. If it is a big joint, then use a big soldering iron tip.
 
 As I am writing this I think it may be worth putting into a different standalone section but I will leave it here for the time being.
+
+The final connection that needs to be made is the ESC signal cables being plugged into the corresponding pins on the bottom rail of the cube orange+ flight controller. The airframe setup section of your selected software will provide you with the mapping of which motor goes to which pin. At this point, I put a loose ziptie around all of the cables and left them bunched in the central hole of the top plate. This allowed them to stay together and not get tangled until I was ready to figure out where they were going.
+
+One thing that is worth noting is that with these Alpha ESCs, there are two, three-pin connectors that come out from them (along with another single connector wire).
+
+- The three pin connector with all three cables attached are for flasing the correct firmware to the ESC
+- The three pin connector with **only two** cables attached are the ones we want to connect to the rail on the flight controller.
+
+  If you connect the three cabled version, when you come to test your motors, nothing will happen (I can speak to this from experience...)
+
+
+
 
 
 So to summarise, at this point the frame is assembled into its primary sections, the ESCs have been mounted under the motor mounts, cables have been extended and relevant connectors attached and the ESC power cables have been soldered onto the PDB.
