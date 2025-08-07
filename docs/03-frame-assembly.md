@@ -29,6 +29,8 @@ As you can see, red goes to the positive (+) and black goes to the negative (-).
 > [!TIP]
 > You can use the multimeter to check for continutity through your soldered joints. Make contact with one probe to the end of the XT60 connector and the other to the corresponding points on the PDB.
 
+---
+
 ## CubePilot PowerBrick
 
 This may or may not be the correct place for this information but as we currently do not have a power/battery section, this feel the most fitting. With the cube orange+, you get a power brick in the box which sits between the battery and PDB that is designed to tap off the power required to maintain the flight controller and its peripherals (i.e. things connected to the flight controller). There is a cable in the box that connects directly into the bottom of the power brick and goes into the power1 port on the cube orange+. As I am writing this ater the fact, the cable has already been threaded through the complteted drone but I will add some photos so it is clearer about where it sits in the architecture. This will also be made clear in the [wiring diragramn](wiring_diagram.pdf).
