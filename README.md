@@ -3,7 +3,8 @@ Documenting a custom quadcopter build completed summer 2025.
 
 Intended to be comprehensive (but not too boring). Any questions, omissions or mistakes please let me know.
 
-![hotshot](https://github.com/user-attachments/assets/22a5aed6-f0ae-478f-b37c-b70e5b997966)
+![hotshot](https://github.com/user-attachments/assets/2a428b6d-ac25-436c-9ff2-ebe0893ae2b5)
+
 
 
 
