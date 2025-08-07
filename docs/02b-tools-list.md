@@ -1,4 +1,6 @@
 # 🔨 Tools List
+A table of everything I purchased for this build. You could get away with buying cheaper versions of many of these items but I have often put some time into researching which items are well reviewed/recommended by reputable sources before purchasing any larger items.
+
 
 | Category        | Component                       | Supplier / Link                                                                 | Price (£) | Notes |
 |-----------------|----------------------------------|----------------------------------------------------------------------------------|-----------|-------|
@@ -16,4 +18,6 @@
 | **Tools Totals**       |            |   | **£221.69** |  |
 
 Resulting in the total running cost of the project to be **£2631.64** (+ £162.84 mistakes).
+
+➡️ [Continue to: Frame Assembly List >>](03-frame-assembly.md)
 
