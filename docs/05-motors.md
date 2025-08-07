@@ -63,10 +63,29 @@ Once I had changed all of the screws over I then re-mounted all of the motors to
 
 (ultimatley you will end up swapping over the 2 of the 3 cables on two of the motors to get them to spion in the correct direction, but as they are now attached via bullet connectors, this is an easy and fast process.)
 
+![drone_assembled_propulsion_installed3](https://github.com/user-attachments/assets/c451654b-8efc-4432-8e68-9fc5b1c1da1d)
 
+## Props
 
+The props being used in this build as the Carbon P15x5 props recommended by T-motor to pair with the MN4014 motor being used. It is important to check that the frame you are using/have designed has enough clearance for the size of the props you want to use. Ideally you would not have the props effectivley being tip to tip when they are spinning, there should be a safe amount of cleareance between them at all points of their rotation.
 
+The props should not be installed at this point as you will just have to uninstall them as soon as you connect any power. But it seems appropriate here to discuss the them. 
 
+With the t-motor props, they are sold in pairs, often one being a clockwise (CW) prop and one being a counter clockwise (CCW) prop. This is conventially declared from a top down view of the drone w.r.t. which way they spin.
+
+The coding on the propellors here are the markings L and R. With 
+
+- L meaning clockwise
+- R meaning counter-clockwise
+
+You can find this lettering on the topside of each propeller.
+
+![propellors](https://github.com/user-attachments/assets/0401d972-98de-45eb-8070-123368680871)
+
+Both the motors and the props likely came with small discs which sit on top of them and the bolts go through when installed, I used the ones from the motor box but the two sets were the same diameter, shape and thickness. They come with a card that explains the installation. 
+
+> [!NOTE]
+> There is also little coloured stickers with the props that can be used to pair a prop with a particular arm/motor. I would advise checking the rotations are correct multiple times before changing your reference point to the stickers!
 
 
 
