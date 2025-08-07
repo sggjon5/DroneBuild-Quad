@@ -24,7 +24,7 @@ The three connections you have to solder are as follows (colouring as a guidelin
 ![reciever_soldered](https://github.com/user-attachments/assets/fd48d23a-7e68-48d3-b165-bca9f1a40a55)
 
 > [!WARNING]
-> Do not stick this receiver to the frame using foam tape, **attached to the side with the button**. I did this and it literally pulled the button off so I had to spend 10 minutes reconstructing it with a pair of very fine tweezers to be able to bind the transmitter.
+> **Do not stick this receiver to the frame using foam tape attached to the side with the button**. I did this and it literally pulled the button off so I had to spend 10 minutes reconstructing it with a pair of very fine tweezers to be able to bind the transmitter.
 
 As can be seen in the above photo, the button is not actually attached anymore, this is because it was stuck to the foam tape I had used to mount it to the frame. I attached it to the top of the bottom plate when affixing it to the frame, on the back right hand side, with the antennas hanging out the side of the central body of the drone. As you can also (just about) see in the below image, the servo connector that is attached to the three cables that were soldered to the receiver, are connected to the RC IN port on the cube (furthest left rail on the bottom of the flight controller).
 
@@ -37,4 +37,6 @@ As can be seen in the above photo, the button is not actually attached anymore, 
 
 ## 🎮 Transmitter
 
-The transmitter used for this project was the FrSky Tandem X18 Dual Band transmitter. 
+The transmitter used for this project was the FrSky Tandem X18 Dual Band transmitter. There is again, a great comprehensive video about this series of transmitters that I found useful to watch most of. I can corroborate what is said here that it does have a real quality feling to it, even if mine is the cheapest version available.
+
+https://www.youtube.com/watch?v=sJ-LwGSo7k8
