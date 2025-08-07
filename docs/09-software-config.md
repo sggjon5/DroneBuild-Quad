@@ -9,7 +9,7 @@ The things I would highlight though are:
 - **Do not put the propellors on for any of the testing**
 - Check, check and check again that your motors are spinning in the right direction that is expected by the software
 
-## 🗺️ Connecting Mission Planner
+## 📶 Connecting Mission Planner
 
 To connect mission planner to your drone, we will use the telemetry setup that we have established. Plug the second (i.e. the one not on the drone) telemetry module (with antenna screwed on) into your PC using the USB cable provided in the bundle. Then, power on your drone. Whilst doing this, you can also turn on your transmitter and allow it to automatically connect to the receiver on the drone (as we have set up the binding and registration earlier) using the model that was setup previously.
 
@@ -22,7 +22,7 @@ A "Getting Params" pop up box will then appear and begin to load as it connects 
 
 ---
 
-## Mission Planner Setup
+## 🗺️ Mission Planner Setup
 
 The main steps you want to take are under the setup cog on the top navigation bar. Working your way through the side panel on this tab is a good starting point. The documentation and community surrounding ardupilot and mission planner is very strong and usually any errors can be resolved by googling them and navigating to one of the easy to find forums. Most of the errors you will encounter have likely been seen before.
 
@@ -47,7 +47,7 @@ Once you have completed all of the orientations/calibrations etc you can then ge
 
 ---
 
-## Motor Test
+## 🧲 Motor Test
 
 I know I have said it before, but I will say it again just in case.
 
@@ -66,7 +66,7 @@ One sign that the connections are correct is that when you power on the drone, y
 
  ---
  
-## Setting a Remote Arm Switch
+## 🦾 Setting a Remote Arm Switch
 
 I know I have said it before, but I will say it again and again just in case.
 
@@ -83,4 +83,28 @@ Now you have confirmed everything is working as anticipated, we can set the arm 
 It is worth noting that you can also do this through the Extended tuning menu by setting the corresponding RC Opt to be ArmDisarm.
 
 [![Watch the video](https://img.youtube.com/vi/wtwehddboB4&t/0.jpg)](https://www.youtube.com/watch?v=wtwehddboB4&t=25s)
+
+---
+
+## 🛸 Fake Flying
+
+Okay, now everything is working as expected, the motors are spinning safely in the correct direction and we have a way to arm the drone for flight.
+
+> [!WARNING]
+> Remove all propellors.
+
+We can now pretend to fly the drone and test the responsiveness of the control input and validate that it is making a difference to the actual physical system.
+
+- Ensure the throttle is all the way down, the drone is in stablize mode and the throttle cut is not active
+- Arm the drone (flicking SD down in this case)
+- The artificial horizon on the data tab of mission planner should change to say ARMED
+- The motors will start spinning
+- If all sounds good, start to slowly increase the throttle to 50%
+- Then, once this has settled, start to move the right stick around and hear the motors change and modulate to what you are doing
+- Then, bring the throttle down to idle, disarm the drone and compelte the test
+
+- An alternative is to pick up the drone in stabilise mode and perturb it from its horizontal state, the stabilize mode should react to your actions and you should hear this reflected in the motors movement
+
+https://github.com/user-attachments/assets/68e51aff-acfe-4545-bedf-02e376d3a414
+
 
