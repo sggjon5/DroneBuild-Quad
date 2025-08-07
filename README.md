@@ -25,11 +25,13 @@ Intended to be comprehensive (but not too boring). Any questions, omissions or m
 ---
 
 ## 🎥 Demo Video
+Pending... 
 [![Maiden flight video](https://github.com/user-attachments/assets/6d31ebfe-fc74-4a00-a9c0-1b687144b918)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 --- 
 
 ## 🚠 Cable/Wiring Diagram
+Pending
 ![Wiring Diagram](media/images/wiring-diagram.pdf)
 
 ---
@@ -42,6 +44,3 @@ Intended to be comprehensive (but not too boring). Any questions, omissions or m
   
   
 
-
-
-![hotshot2]()
