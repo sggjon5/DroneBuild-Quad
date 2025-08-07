@@ -5,6 +5,8 @@
 
 I will provide info about the receiver, then transmitter, then the binding process and finally my configuration of mixes.
 
+---
+
 ## 📻 Receiver
 The receiver used for this build is the FrSky Archer Plus RS 2.4 GHz. This is an incredibly small and lightweight reciever weighing just over a gram. The datasheets spec it to be able to operate at >2km in good conditions and I found the whole registering and binding process very straight forward. [The datasheet](https://www.frsky-rc.com/wp-content/uploads/Downloads/Amanual/ARCHER%20PLUS%20RS%20RS%20Mini%20Manual.pdf) explains how to set up this receiever in a set of relativley short and easy steps.
 
@@ -34,7 +36,7 @@ As can be seen in the above photo, the button is not actually attached anymore, 
 
 
 
-
+---
 
 
 ## 🎮 Transmitter
