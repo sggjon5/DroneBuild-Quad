@@ -73,7 +73,7 @@ You then need to turn on either 2.4GHz or 900M depending on what frequency your 
 Select the Register button on the transmitter and head back over to your drone/receiver.
 
 > [!NOTE]
-> You should check your electronics for shorts before going all out with the battery for the next step. In this case, I actually used the bench power supply with 22.2V and a lower ampage (3.0A?) to safeguard against frying anything done incorrectly. I would advise to do this before plugging in a battery straight away. Check for shorts using the multi-meter etc.
+> You should check your electronics for shorts before going all out with the battery for the next step. In this case, I actually used the bench power supply with 22.2V and a lower ampage (3.0A?) to safeguard against frying anything done incorrectly. I would advise to do this before plugging in a battery straight away. Check for shorts using the multi-meter etc. The battery I have came with an XT90 connector, and the pigtail I soldered onto the board was female (whereas male would have been better). Due to this, I have a succession of converters (including the powerbrick that comes with the flight controller.
 
 Hold the button down on the reciever (you should feel it click when pressed) and plug the battery (or bench power advised) in to power on the system. The lights on the receiver should be green and red, indicating (as per the data sheet) that it is in "reg" mode.
 
