@@ -37,7 +37,15 @@ As can be seen in the above photo, the button is not actually attached anymore, 
 
 ## 🎮 Transmitter
 
-The transmitter used for this project was the FrSky Tandem X18 Dual Band transmitter. There is again, a great comprehensive video about this series of transmitters that I found useful to watch most of. I can corroborate what is said here that it does have a real quality feling to it, even if mine is the cheapest version available.
+The transmitter used for this project was the FrSky Tandem X18 Dual Band transmitter. 
+
+![x18_transmitter](https://github.com/user-attachments/assets/04077540-5ebc-422b-8f45-79d357f510f8)![x18_transmitter_case](https://github.com/user-attachments/assets/f2b5dc64-3e4e-4742-a701-c562b071ca1f)
+
+
+
+
+
+There is again, a great comprehensive video about this series of transmitters that I found useful to watch most of. I can corroborate what is said here that it does have a real quality feling to it, even if mine is the cheapest version available.
 
 [![Watch the video](https://img.youtube.com/vi/sJ-LwGSo7k8/0.jpg)](https://www.youtube.com/watch?v=sJ-LwGSo7k8)
 
