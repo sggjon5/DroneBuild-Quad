@@ -18,6 +18,8 @@ The three connections you have to solder are as follows (colouring as a guidelin
 - Black - GND
 - Red - VIN
 - White - SBUS_OUT
+- 
+<img width="475" height="381" alt="archer_plus_rs_pinout" src="https://github.com/user-attachments/assets/99b246d7-5661-4257-b2c6-c5ec59e69a10" />
 
  These three cables then go into a Servo connector and is connected to the "RC IN" pins on the flight controller (along the bottom edge of the orange+), with black corresponding to - and white corresponding to s.
 
