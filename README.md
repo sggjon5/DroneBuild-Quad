@@ -26,7 +26,7 @@ Intended to be comprehensive (but not too boring). Any questions, omissions or m
 --- 
 
 ## 🚠 Cable/Wiring Diagram
-![Wiring Diagram](media/images/wiring-diagram.png)
+![Wiring Diagram](media/images/wiring-diagram.pdf)
 
 ---
 
