@@ -68,6 +68,9 @@ One sign that the connections are correct is that when you power on the drone, y
  
 ## 🦾 Setting a Remote Arm Switch
 
+> [!NOTE]
+> This is something I set up at first but have since removed as you can remotely arm the controller by holding the left hand stick all the way down and right on the transmitter. I have left the below in but since learning of the stick arming, I would reccomend removing the arm switch from the transmitter.
+
 I know I have said it before, but I will say it again and again just in case.
 
 > [!WARNING]
@@ -96,12 +99,12 @@ Okay, now everything is working as expected, the motors are spinning safely in t
 We can now pretend to fly the drone and test the responsiveness of the control input and validate that it is making a difference to the actual physical system.
 
 - Ensure the throttle is all the way down, the drone is in stablize mode and the throttle cut is not active
-- Arm the drone (flicking SD down in this case)
+- Arm the drone (holding rudder down and right)
 - The artificial horizon on the data tab of mission planner should change to say ARMED
 - The motors will start spinning
 - If all sounds good, start to slowly increase the throttle to 50%
 - Then, once this has settled, start to move the right stick around and hear the motors change and modulate to what you are doing
-- Then, bring the throttle down to idle, disarm the drone and compelte the test
+- Then, bring the throttle down to idle, disarm the drone (rudder full left) and compelte the test
 
 - An alternative is to pick up the drone in stabilise mode and perturb it from its horizontal state, the stabilize mode should react to your actions and you should hear this reflected in the motors movement
 
