@@ -105,6 +105,8 @@ We can now pretend to fly the drone and test the responsiveness of the control i
 
 - An alternative is to pick up the drone in stabilise mode and perturb it from its horizontal state, the stabilize mode should react to your actions and you should hear this reflected in the motors movement
 
-https://github.com/user-attachments/assets/68e51aff-acfe-4545-bedf-02e376d3a414
+
+[![Watch the video](https://img.youtube.com/vi/z5--iK6VvRA/0.jpg)](https://www.youtube.com/watch?v=z5--iK6VvRA)
+
 
 
