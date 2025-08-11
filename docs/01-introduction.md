@@ -12,6 +12,8 @@ I was starting from basically no tools (other than general household things like
 
 None of this work has been sponsored by any of the vendors that I have used and therefore I am happy to provide an impartial review that they have all been excellent w.r.t. their correspondence and delivery times.
 
+![drone_portrait_outside](https://github.com/user-attachments/assets/ff788be9-6946-427b-9b3b-b689bf0310d5)
+
 ---
 
 ## 🎯 Project Goals
