@@ -103,9 +103,11 @@ This is the part I feel the most uncertain about in the entire process to be hon
 | Pitch | CH2 | Elevator | " |
 | Yaw | CH4 | Rudder | " |
 | Throttle | CH3 | Throttle | ". Added throttle cut setting assgined to SG (3 position switch converted to a 2 position switch in hardware settings) |
-| Flight Modes | CH5 | SC | Free mix - Kept as 3 position switch, will likely assign to stabilized, ATTI and RTH?. |
+| Flight Modes | CH5 | SC | Free mix - Kept as 3 position switch, will likely assign to stabilized, AltHold and RTH?. |
 | RTH | CH7 | SF | Free mix - 2 position switch |
-| Arm | CH8 | SD | Free mix - changed 3 pos switch to a 2 pos switch in hardware settings. Set so drone can be armed remotely |
+
+
+I did previously have a remote arm switch on SD on CH8, but have since removed this as I found out that holding full rudder right can arm the drone.
 
 To change the setup of a particular switch (i.e. name, whether it is 2pos, 3pos etc), you can navigate to the settings cog along the bottom nav bar of ETHOS on the transmitter. Here you will find hardware settings > switches settings. Within this drop-down you can change the features of the switches and see what is available to you. If you are permanently renaming things, I would reccomend keeping the assigned letters in the name somwehere as it is then easy to rember which one you have assigned as arm, or kill_motors etc.
 
