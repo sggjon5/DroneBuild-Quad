@@ -100,7 +100,7 @@ This is the part I feel the most uncertain about in the entire process to be hon
 | Name | Channels | Source | Notes |
 |------|----------|---------|-------|
 |  Roll | CH1 | Aileron  | Default setting, what is recognised by default in Ardupilot |
-| Pitch | CH2 | Elevator | " |
+| Pitch | CH2 | Elevator | ". I had to change the weighting of this from 100% to -100% on the transmitter as the input was reversed when setting up for flight testing. |
 | Yaw | CH4 | Rudder | " |
 | Throttle | CH3 | Throttle | ". Added throttle cut setting assgined to SG (3 position switch converted to a 2 position switch in hardware settings) |
 | Flight Modes | CH5 | SC | Free mix - Kept as 3 position switch, will likely assign to stabilized, AltHold and RTH?. |
