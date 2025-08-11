@@ -49,7 +49,9 @@ Whether it is just curiosity, you are planning your own custom build, or stuck h
 - ETHOS (transmitter OS)
 - Ground control software (Mission Planner)
 - Autopilot software (ArduPilot)
-- Latte Art
+- Latte art
+- PID tuning
+- Flying a drone
 
 
 
