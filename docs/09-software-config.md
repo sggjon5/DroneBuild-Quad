@@ -82,7 +82,7 @@ Now you have confirmed everything is working as anticipated, we can set the arm 
 
 It is worth noting that you can also do this through the Extended tuning menu by setting the corresponding RC Opt to be ArmDisarm.
 
-[![Watch the video](https://img.youtube.com/vi/wtwehddboB4&t/0.jpg)](https://www.youtube.com/watch?v=wtwehddboB4&t=25s)
+[![Watch the video](https://img.youtube.com/vi/wtwehddboB4&t/0.jpg)](https://www.youtube.com/watch?v=wtwehddboB4&t)
 
 ---
 
