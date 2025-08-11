@@ -19,6 +19,7 @@ Intended to be comprehensive (but not too boring) and honest. Any questions, omi
 - [🎮📻 Transmitter & Receiver](docs/07-transmitter-receiver.md)
 - [🛰️ GPS](docs/08-gps.md)
 - [💻 Software Configuration](docs/09-software-config.md)
+- [ ✈️ Flight Testing](docs/10-flight-testing.md)
 
 ---
 
