@@ -21,13 +21,19 @@ It is customary (at least historically) to place the GPS on a stand above the re
 
 I ended up loading up Fusion360 and designing a simple stand that (due to my infrequent and lacking CAD abilities) ended up being a single piece of print, rather than as I initially intended, a modular design which I could refine and print the different elements to make better. It did however _more or less_ line up with the fixing holes available on the tarot 650 frame. 
 
-If you do want the .stl file for it, is is [here](files/GPS_stand_v1.stl). I will note that without reinforcing the central stick, it is quite springy, and could almost certaintly do with being thicker, or being replaced with a more appropriate material at a minimum (PLA+ be flexin). To remedy this, I quite lazily reinforced it with a wooden dowell, using two trusty zipties at the top and bottom to secure it.
+If you do want the .stl file for it, is is [here](files/GPS_stand_v1.stl). I will note that without reinforcing the central stick, it is quite springy, and could almost certaintly do with being thicker and shorter, or being replaced with a more appropriate material at a minimum (PLA+ be flexin). To remedy this, I quite lazily reinforced it with a wooden dowell, using two trusty zipties at the top and bottom to secure it.
 
 <img width="292" height="430" alt="image" src="https://github.com/user-attachments/assets/777d9a51-122a-432d-8e28-7710f227cbb7" />
 
 I then applied some double sided sticky tape to the bottom of it and secured it in place using the two holes designed to sit over those in the top plate of the drone. Using a nut and bolt to hold the stand in place. The GPS comes with a small circle of double sided foam tape for affixing it.
 
 ![GPS_installed](https://github.com/user-attachments/assets/954ebaae-c75f-4410-b93e-c0ed501316bc)
+
+> [!NOTE]
+> As soon as I could be bothered, I amended the CAD to make the central stick on the stand thicker and considerably shorter. I then printed this [new version](files/GPS_stand_v2.stl) and swapped out the old stand.
+
+![gps_stand_v2](https://github.com/user-attachments/assets/6189d84f-4152-4e98-a0d6-0f146600f25c)
+
 
 ➡️ [Continue to: Software Setup >>](09-software-config.md)
 
