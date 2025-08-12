@@ -50,6 +50,8 @@ This was made on a Canva whiteboard, as those who know me will be aware, I am a 
 - Ordered the wrong XT60 pigtail (female) and soldered it to the drone, warranting either a replacement or a male to male XT60 converter (~£5)
 - Did not apply threadlocker to my metal to metal connections initially (~£10)
 
+---
+
 ## 🎉 Positive & Good Things
 
 - The communication and fast delivery from all of the vendors (most notably 3DXR and FlyingTech) has been brilliant every time
