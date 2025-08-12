@@ -25,7 +25,7 @@ Intended to be comprehensive (but not too boring) and honest. Any questions, omi
 
 ## 🎥 Demo Video
 Pending... 
-[![Maiden flight video](https://github.com/user-attachments/assets/6d31ebfe-fc74-4a00-a9c0-1b687144b918)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Maiden flight video](https://github.com/user-attachments/assets/d8acab92-713b-4c53-9568-10125d38507a)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 --- 
 
