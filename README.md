@@ -48,6 +48,7 @@ This was made on a Canva whiteboard, as those who know me will be aware, I am a 
 - ESCs are a bit big to run the cables through the motor arms so had to run them externally (still looks neat but less so than internal cabling) (no cost)
 - Bought a wire stripper/cutter that is not very good at cutting and honestly surplus to requirements for a project of this scale... (~£25)
 - Ordered the wrong XT60 pigtail (female) and soldered it to the drone, warranting either a replacement or a male to male XT60 converter (~£5)
+- Did not apply threadlocker to my metal to metal connections initially (~£10)
 
 ## 🎉 Positive & Good Things
 
