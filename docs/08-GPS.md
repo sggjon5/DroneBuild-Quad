@@ -30,7 +30,7 @@ I then applied some double sided sticky tape to the bottom of it and secured it 
 ![GPS_installed](https://github.com/user-attachments/assets/954ebaae-c75f-4410-b93e-c0ed501316bc)
 
 > [!NOTE]
-> As soon as I could be bothered, I amended the CAD to make the central stick on the stand thicker and considerably shorter. I then printed this [new version](/files/GPS_stand_base_v2.stl) and swapped out the old stand.
+> As soon as I could be bothered, I amended the CAD to make the central stick on the GPS stand thicker and considerably shorter. I then printed this [new version](/files/GPS_stand_base_v2.stl) and swapped out the old stand. I did not fix the central hole not aligning with the bolt head nearby and you still have to clip a tiny part of the plastic away.
 
 ![gps_stand_v2](https://github.com/user-attachments/assets/6189d84f-4152-4e98-a0d6-0f146600f25c)
 
