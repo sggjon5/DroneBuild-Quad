@@ -27,6 +27,8 @@ I attached the one on the drone to the underside of the main body, using a piece
 
 ![telem_on_drone](https://github.com/user-attachments/assets/dd0b87a7-73c8-4b77-982b-5bfd5819f13f)
 
+After taping this on, it became apparent that the front panel of the module was just a push fit casing. Prior to the first flight I added a small ziptie around the module, threaded through the nearest hole on the bottom plate of the central drone body.
+
 It is reccomended online that you make a seperate power source for the radio but given the fact that the RFD868x-EU operates at 5V and has a "~800mA max peak (at maximum transmit power)", it can quite comfortably be powered by the telem1 port on the cube orange plus as this also operates at 5V and can provide up to 1.5A [link](https://discuss.cubepilot.org/t/serial-port-problems/5654/5).
 
 ➡️ [Continue to: Transmitter & Receiver >>](07-transmitter_receiver.md)
