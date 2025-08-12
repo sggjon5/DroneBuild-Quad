@@ -93,6 +93,8 @@ The above is basically a poorly worded version of the advice on the manual provi
 
 <img width="1171" height="501" alt="image" src="https://github.com/user-attachments/assets/edd27356-092a-4244-aea2-a7d27dd7c508" />
 
+The failsafe option under the RF setting I am using is no pulses.
+
 ### My Setup
 
 This is the part I feel the most uncertain about in the entire process to be honest. I could not really find a "this is how you configure your transmitter" advice easily online, so I am going off the assumption that there are some standards but it is otherwise personal preference what the different switches etc are assigned. In anycase, here is my current mixes configuration for this quad copter setup.
