@@ -24,7 +24,7 @@ Intended to be comprehensive (but not too boring) and honest. Any questions, omi
 ---
 
 ## 🎥 Demo Video
-Please click the image below to view the drone in action. For some reasons Youtube has uploaded it as a short and I am unaware of how to change this. I am unable to upload the file to github as it is over the size limit.
+Please click the image below to view the drone in action. For some reasons Youtube has uploaded it as a short and I am unaware of how to change this. I am unable to upload the file to github as it is over the size limit. I have uploaded a couple of videos to a canva whiteboard that can be found [here](https://www.canva.com/design/DAGwCvz3RpU/Q3_VmZ7DQnh24HMWHGmF7A/view?utm_content=DAGwCvz3RpU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h75a95d4e3d). The quality should not be compressed in these
 
 [![Maiden flight video](https://github.com/user-attachments/assets/d8acab92-713b-4c53-9568-10125d38507a)](https://www.youtube.com/shorts/46lmEJWYgyI)
 
