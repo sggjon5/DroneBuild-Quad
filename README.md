@@ -24,8 +24,11 @@ Intended to be comprehensive (but not too boring) and honest. Any questions, omi
 ---
 
 ## 🎥 Demo Video
-Pending... 
-[![Maiden flight video](https://github.com/user-attachments/assets/d8acab92-713b-4c53-9568-10125d38507a)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+Please click the image below to view the drone in action. For some reasons Youtube has uploaded it as a short and I am unaware of how to change this. I will also upload the video into the media folder of this repository so it can also be found [here](/media/videos/drone_flight_indoors_step_inputs).
+
+[![Maiden flight video](https://github.com/user-attachments/assets/d8acab92-713b-4c53-9568-10125d38507a)](https://www.youtube.com/shorts/46lmEJWYgyI)
+
+
 
 --- 
 
